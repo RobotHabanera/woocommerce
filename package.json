@@ -1,0 +1,98 @@
+{
+  "name": "woondershop",
+  "private": true,
+  "engines": {
+    "node": "^6.0.0"
+  },
+  "config": {
+    "theme_slug": "woondershop-pt",
+    "nodesass_params": "--precision 6 --include-path node_modules --include-path vendor/proteusthemes"
+  },
+  "scripts": {
+    "clean": "npm run clean-css & npm run clean-js",
+    "clean-css": "rm -rf assets/dist/css && mkdir -p assets/dist/css",
+    "clean-js": "rm -rf assets/dist/js && mkdir -p assets/dist/js",
+    "css": "npm run css-lint && npm run css-dist",
+    "css-lint": "stylelint 'assets/src/scss/**/*.scss' --syntax scss",
+    "css-dist": "node-sass -o assets/dist/css/ --output-style compact $npm_package_config_nodesass_params assets/src/scss/ && postcss assets/dist/css/*.css -r --no-map --use autoprefixer",
+    "precss-dist": "npm run clean-css",
+    "postcss-dist": "postcss assets/dist/css/*.css --config assets/config/postcss.config.js --no-map --dir assets/dist/css/ --ext '.min.css'",
+    "css-dev": "npm run css-dev-theme && npm run css-dev-theme-jungle",
+    "css-dev-theme": "node-sass --source-map true --source-map-embed true --source-map-root '../../../' $npm_package_config_nodesass_params assets/src/scss/woondershop-default.scss | postcss --use autoprefixer --output assets/dist/css/woondershop-default.css",
+    "css-dev-theme-jungle": "node-sass --source-map true --source-map-embed true --source-map-root '../../../' $npm_package_config_nodesass_params assets/src/scss/woondershop-jungle.scss | postcss --use autoprefixer --output assets/dist/css/woondershop-jungle.css",
+    "watch-css-theme": "nodemon -w ./assets/src/scss/ -e scss -x \"npm run css-dev-theme\"",
+    "watch-css-theme-jungle": "nodemon -w ./assets/src/scss/ -e scss -x \"npm run css-dev-theme-jungle\"",
+    "js-dist": "NODE_ENV=production webpack --config assets/config/webpack.config.js --optimize-max-chunks 1",
+    "prejs-dist": "npm run clean-js",
+    "js-dev": "NODE_ENV=development webpack --config assets/config/webpack.config.js --optimize-max-chunks 1",
+    "watch-css": "nodemon -w ./assets/src/scss/ -e scss -x \"npm run css-dev\"",
+    "watch-js": "NODE_ENV=development webpack --watch --config assets/config/webpack.config.js --optimize-max-chunks 1",
+    "watch": "(livereload ['*.php', '**/*.php', 'assets/dist/js/*.js', 'assets/dist/css/*.css'] &) ; npm run watch-js & npm run watch-css"
+  },
+  "devDependencies": {
+    "autoprefixer": "^6.7.7",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-plugin-transform-es2015-destructuring": "^6.23.0",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "cssnano": "^3.10.0",
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-compress": "^1.3.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-po2mo": "^0.1.2",
+    "grunt-text-replace": "^0.4.0",
+    "grunt-wp-i18n": "^0.5.1",
+    "jquery.easing": "^1.4.1",
+    "load-grunt-tasks": "^3.1.0",
+    "node-sass": "^4.7.2",
+    "nodemon": "^1.14.11",
+    "postcss-cli": "^4.1.1",
+    "stylelint": "^8.4.0",
+    "stylelint-config-wordpress": "github:WordPress-Coding-Standards/stylelint-config-wordpress#master",
+    "webpack": "^3.10.0",
+    "webpack-livereload-plugin": "^1.0.0"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free-webfonts": "^1.0.8",
+    "bootstrap": "4.0.0",
+    "flipclock": "^0.7.8",
+    "float-labels.js": "^3.3.3",
+    "jquery": "^3.2.1",
+    "mustache": "^2.3.0",
+    "popper.js": "^1.12.9",
+    "slick-carousel": "^1.8.1"
+  },
+  "browserslist": [
+    "last 2 versions",
+    "> 1%"
+  ],
+  "stylelint": {
+    "extends": "stylelint-config-wordpress/scss",
+    "rules": {
+      "font-weight-notation": "named-where-possible",
+      "string-quotes": "single",
+      "selector-pseudo-element-colon-notation": "double",
+      "number-leading-zero": "never",
+      "color-hex-length": "long",
+      "rule-empty-line-before": null,
+      "max-line-length": null,
+      "no-descending-specificity": null,
+      "font-family-no-missing-generic-family-keyword": null,
+      "function-url-quotes": "always",
+      "at-rule-empty-line-before": [
+        "always",
+        {
+          "except": [
+            "first-nested",
+            "blockless-after-same-name-blockless"
+          ],
+          "ignore": [
+            "after-comment"
+          ]
+        }
+      ]
+    }
+  }
+}

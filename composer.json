@@ -1,0 +1,26 @@
+{
+    "name":         "proteusthemes/woondershop-pt",
+    "description":  "WordPress theme by ProteusThemes.",
+    "license":      "GPL-2.0+",
+    "type":         "project",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url":  "git@bitbucket.org:proteusnet/theme-registration-and-updates.git"
+        },
+        {
+            "type": "vcs",
+            "url":  "git@github.com:richtabor/MerlinWP.git"
+        }
+    ],
+    "require": {
+        "tgmpa/tgm-plugin-activation":                  "~2.6.1",
+        "proteusthemes/wai-aria-walker-nav-menu":       "^1.2.0",
+        "proteusthemes/wp-customizer-utilities":        "^2.7.0",
+        "proteusthemes/proteuswidgets":                 "^4.0.3",
+        "proteusthemes/theme-registration-and-updates": "^2.3.0",
+        "richtabor/merlin-wp":                          "1.0.0-rc.3",
+        "mexitek/phpcolors":                            "^0.4.0",
+        "aristath/kirki":                               "^3.0"
+    }
+}

@@ -1,0 +1,464 @@
+[
+    {
+        "name": "aristath/kirki",
+        "version": "v3.0.33",
+        "version_normalized": "3.0.33.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/aristath/kirki.git",
+            "reference": "d2ddc07158cd2e09bb1e3b057a9a98d52b8ec467"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/aristath/kirki/zipball/d2ddc07158cd2e09bb1e3b057a9a98d52b8ec467",
+            "reference": "d2ddc07158cd2e09bb1e3b057a9a98d52b8ec467",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.2"
+        },
+        "require-dev": {
+            "codacy/coverage": "dev-master",
+            "composer/installers": "*",
+            "dealerdirect/phpcodesniffer-composer-installer": "*",
+            "php-coveralls/php-coveralls": "^2.0",
+            "phpunit/phpunit": "*",
+            "wimg/php-compatibility": "*",
+            "wp-coding-standards/wpcs": "*"
+        },
+        "time": "2018-05-17T17:26:03+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "files": [
+                "kirki.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "aristath",
+                "email": "aristath@gmail.com",
+                "homepage": "https://aristath.github.io",
+                "role": "Developer"
+            },
+            {
+                "name": "fovoc",
+                "email": "kalliris.d@gmail.com",
+                "homepage": "https://github.com/fovoc",
+                "role": "Developer"
+            }
+        ],
+        "description": "Extending the WordPress customizer",
+        "homepage": "https://aristath.github.io/kirki",
+        "keywords": [
+            "customizer",
+            "wordpress"
+        ]
+    },
+    {
+        "name": "league/plates",
+        "version": "3.3.0",
+        "version_normalized": "3.3.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/thephpleague/plates.git",
+            "reference": "b1684b6f127714497a0ef927ce42c0b44b45a8af"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/thephpleague/plates/zipball/b1684b6f127714497a0ef927ce42c0b44b45a8af",
+            "reference": "b1684b6f127714497a0ef927ce42c0b44b45a8af",
+            "shasum": ""
+        },
+        "require": {
+            "php": "^5.3 | ^7.0"
+        },
+        "require-dev": {
+            "mikey179/vfsstream": "^1.4",
+            "phpunit/phpunit": "~4.0",
+            "squizlabs/php_codesniffer": "~1.5"
+        },
+        "time": "2016-12-28T00:14:17+00:00",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "3.0-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "League\\Plates\\": "src"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Jonathan Reinink",
+                "email": "jonathan@reinink.ca",
+                "role": "Developer"
+            }
+        ],
+        "description": "Plates, the native PHP template system that's fast, easy to use and easy to extend.",
+        "homepage": "http://platesphp.com",
+        "keywords": [
+            "league",
+            "package",
+            "templates",
+            "templating",
+            "views"
+        ]
+    },
+    {
+        "name": "mexitek/phpcolors",
+        "version": "v0.4",
+        "version_normalized": "0.4.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/mexitek/phpColors.git",
+            "reference": "89bf30473a68dc8845e46e9db3e536b969e18c11"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/mexitek/phpColors/zipball/89bf30473a68dc8845e46e9db3e536b969e18c11",
+            "reference": "89bf30473a68dc8845e46e9db3e536b969e18c11",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.0"
+        },
+        "time": "2015-09-09T15:43:06+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "classmap": [
+                "src"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Arlo Carreon",
+                "homepage": "http://arlocarreon.com",
+                "role": "creator"
+            }
+        ],
+        "description": "A series of methods that let you manipulate colors. Just incase you ever need different shades of one color on the fly.",
+        "homepage": "http://mexitek.github.com/phpColors/",
+        "keywords": [
+            "color",
+            "css",
+            "design",
+            "frontend",
+            "ui"
+        ]
+    },
+    {
+        "name": "proteusthemes/proteuswidgets",
+        "version": "v4.0.3",
+        "version_normalized": "4.0.3.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/proteusthemes/ProteusWidgets.git",
+            "reference": "c781c22957e8b88f4aad66c9f15d66a8afdf2f24"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/proteusthemes/ProteusWidgets/zipball/c781c22957e8b88f4aad66c9f15d66a8afdf2f24",
+            "reference": "c781c22957e8b88f4aad66c9f15d66a8afdf2f24",
+            "shasum": ""
+        },
+        "require": {
+            "league/plates": "^3.1.1"
+        },
+        "time": "2018-04-05T11:13:16+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "classmap": [
+                "widgets/",
+                "inc/",
+                "proteuswidgets.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "GPL-2.0+"
+        ],
+        "description": "WordPress widgets used in ProtuesThemes."
+    },
+    {
+        "name": "proteusthemes/theme-registration-and-updates",
+        "version": "v2.3.0",
+        "version_normalized": "2.3.0.0",
+        "source": {
+            "type": "git",
+            "url": "git@bitbucket.org:proteusnet/theme-registration-and-updates.git",
+            "reference": "a126d6a46d434837ef7178a09e6bb8336370ba04"
+        },
+        "time": "2018-05-29T08:18:16+00:00",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-4": {
+                "ProteusThemes\\ThemeRegistration\\": "src/"
+            }
+        },
+        "description": "Composer package for theme registration and automatic updates"
+    },
+    {
+        "name": "proteusthemes/wai-aria-walker-nav-menu",
+        "version": "v1.2.1",
+        "version_normalized": "1.2.1.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/proteusthemes/WAI-ARIA-Walker_Nav_Menu.git",
+            "reference": "094b11d8e77143e29f337d128f892f15bab3ef92"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/proteusthemes/WAI-ARIA-Walker_Nav_Menu/zipball/094b11d8e77143e29f337d128f892f15bab3ef92",
+            "reference": "094b11d8e77143e29f337d128f892f15bab3ef92",
+            "shasum": ""
+        },
+        "time": "2016-05-18T18:48:49+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "classmap": [
+                "aria-walker-nav-menu.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "GPLv2"
+        ],
+        "authors": [
+            {
+                "name": "Primoz Cigler",
+                "email": "primoz@proteusnet.com"
+            },
+            {
+                "name": "Marko Prelec",
+                "email": "marko.prelec@proteusnet.com"
+            }
+        ],
+        "description": "WordPress menu walker which adds appropriate WIA-ARIA roles to dropdown menus."
+    },
+    {
+        "name": "proteusthemes/wp-content-importer-v2",
+        "version": "v2.1.0",
+        "version_normalized": "2.1.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/proteusthemes/WordPress-Importer.git",
+            "reference": "7414ce1bfb56a8be780c520ed63e99cac7ac403b"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/proteusthemes/WordPress-Importer/zipball/7414ce1bfb56a8be780c520ed63e99cac7ac403b",
+            "reference": "7414ce1bfb56a8be780c520ed63e99cac7ac403b",
+            "shasum": ""
+        },
+        "time": "2018-04-13T07:31:18+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "ProteusThemes\\WPContentImporter2\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "GPL-2.0+"
+        ],
+        "authors": [
+            {
+                "name": "Primoz Cigler",
+                "email": "primoz@proteusnet.com"
+            },
+            {
+                "name": "Gregor Capuder",
+                "email": "capuderg@gmail.com"
+            },
+            {
+                "name": "Humanmade contributors",
+                "homepage": "https://github.com/humanmade/WordPress-Importer/graphs/contributors"
+            }
+        ],
+        "description": "Improved WP content importer used in OCDI plugin and MerlinWP.",
+        "keywords": [
+            "content",
+            "import",
+            "proteusthemes",
+            "theme",
+            "wordpress",
+            "wp"
+        ]
+    },
+    {
+        "name": "proteusthemes/wp-customizer-utilities",
+        "version": "v2.7.0",
+        "version_normalized": "2.7.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/proteusthemes/wp-customizer-utilities.git",
+            "reference": "ce66a6ec9d9114abc76a3e2bcba4793849041679"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/proteusthemes/wp-customizer-utilities/zipball/ce66a6ec9d9114abc76a3e2bcba4793849041679",
+            "reference": "ce66a6ec9d9114abc76a3e2bcba4793849041679",
+            "shasum": ""
+        },
+        "require": {
+            "mexitek/phpcolors": "^0.4.0"
+        },
+        "time": "2018-06-19T12:32:35+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "ProteusThemes\\CustomizerUtils\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "GPL-2.0+"
+        ],
+        "authors": [
+            {
+                "name": "Primoz Cigler",
+                "email": "primoz@proteusnet.com"
+            },
+            {
+                "name": "Gregor Capuder",
+                "email": "gregor.capuder@proteusnet.com"
+            }
+        ],
+        "description": "Advanced WordPress customizer controls and settings for better user experience.",
+        "keywords": [
+            "control",
+            "customizer",
+            "proteusthemes",
+            "theme",
+            "wordpress",
+            "wp"
+        ]
+    },
+    {
+        "name": "richtabor/merlin-wp",
+        "version": "1.0.0-rc.3",
+        "version_normalized": "1.0.0.0-RC3",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/richtabor/MerlinWP.git",
+            "reference": "e3a64a98bae41bf8d4075b46babc2011cf49d1f4"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/richtabor/MerlinWP/zipball/e3a64a98bae41bf8d4075b46babc2011cf49d1f4",
+            "reference": "e3a64a98bae41bf8d4075b46babc2011cf49d1f4",
+            "shasum": ""
+        },
+        "require": {
+            "proteusthemes/wp-content-importer-v2": "^2.0.4"
+        },
+        "time": "2018-03-19T10:10:29+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "license": [
+            "GPL-3.0+"
+        ],
+        "authors": [
+            {
+                "name": "Rich Tabor",
+                "homepage": "https://github.com/richtabor"
+            },
+            {
+                "name": "ProteusThemes",
+                "homepage": "https://www.proteusthemes.com/"
+            }
+        ],
+        "description": "Better WordPress Theme Onboarding.",
+        "keywords": [
+            "content",
+            "import",
+            "onboarding",
+            "theme",
+            "wordpress",
+            "wp"
+        ],
+        "support": {
+            "source": "https://github.com/richtabor/MerlinWP/tree/1.0.0-rc.3",
+            "issues": "https://github.com/richtabor/MerlinWP/issues"
+        }
+    },
+    {
+        "name": "tgmpa/tgm-plugin-activation",
+        "version": "2.6.1",
+        "version_normalized": "2.6.1.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/TGMPA/TGM-Plugin-Activation.git",
+            "reference": "c626d0d91fc8ef24916e809c7b79eeafab1c1cac"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/TGMPA/TGM-Plugin-Activation/zipball/c626d0d91fc8ef24916e809c7b79eeafab1c1cac",
+            "reference": "c626d0d91fc8ef24916e809c7b79eeafab1c1cac",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.2"
+        },
+        "time": "2016-05-19T15:46:51+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "files": [
+                "class-tgm-plugin-activation.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "GPL-2.0+"
+        ],
+        "authors": [
+            {
+                "name": "Thomas Griffin",
+                "homepage": "http://thomasgriffinmedia.com",
+                "role": "Developer"
+            },
+            {
+                "name": "Gary Jones",
+                "homepage": "https://github.com/GaryJones",
+                "role": "Developer"
+            },
+            {
+                "name": "Juliette Reinders Folmer",
+                "homepage": "https://github.com/jrfnl",
+                "role": "Developer"
+            }
+        ],
+        "description": "TGM Plugin Activation is a PHP library that allows you to easily require or recommend plugins for your WordPress themes (and plugins).",
+        "homepage": "http://tgmpluginactivation.com",
+        "keywords": [
+            "activation",
+            "library",
+            "plugins",
+            "theme",
+            "wordpress"
+        ]
+    }
+]

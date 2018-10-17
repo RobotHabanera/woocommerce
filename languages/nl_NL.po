@@ -1,0 +1,2550 @@
+# Copyright (C) 2018 ProteusThemes 
+# This file is distributed under the GPL 2.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: WoonderShop PT 1.1.0\n"
+"Report-Msgid-Bugs-To: http://support.proteusthemes.com/\n"
+"POT-Creation-Date: 2018-03-23 08:46:16+00:00\n"
+"PO-Revision-Date: 2018-05-20 20:27+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.7\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:15
+msgid "You landed on the wrong side of the website"
+msgstr "Je bent op de verkeerde kant van de website beland"
+
+#. translators: the first %s for line break, the second and third %s for link
+#. to home page wrap
+#: 404.php:20
+msgid ""
+"Page you are looking for is not here. %1$s Go %2$sHome%3$s or try to search:"
+msgstr ""
+"De pagina waarnaar je zoekt is hier niet. %1$s Ga %2$sHome%3$s of probeer te "
+"zoeken:"
+
+#: comments.php:14
+msgid "Comments"
+msgstr "Reacties"
+
+#: comments.php:25
+msgid "Comment Navigation"
+msgstr "Navigatie reacties"
+
+#: comments.php:26
+msgid "&larr; Older Comments"
+msgstr "&larr; Oudere reacties"
+
+#: comments.php:27
+msgid "Newer Comments &rarr;"
+msgstr "Recentere reacties &rarr;"
+
+#: comments.php:36 comments.php:95
+msgid "Comments for this post are closed."
+msgstr "Reageren op dit bericht is uitgeschakeld."
+
+#: comments.php:52
+msgid "Name"
+msgstr "Naam"
+
+#: comments.php:53
+msgid "First and Last name"
+msgstr "Voornaam en achternaam"
+
+#: comments.php:58
+msgid "E-mail"
+msgstr "E-mail"
+
+#: comments.php:59
+msgid "E-mail Address"
+msgstr "E-mailadres"
+
+#: comments.php:64 comments.php:65
+msgid "Website"
+msgstr "Website"
+
+#: comments.php:70
+msgid ""
+"Save my name, email, and website in this browser for the next time I comment."
+msgstr ""
+
+#: comments.php:78
+msgid "New Comment"
+msgstr "Nieuwe reactie"
+
+#: comments.php:87
+msgid "Leave a Comment"
+msgstr "Reageer"
+
+#: footer.php:77
+msgid "Back to top"
+msgstr ""
+
+#: functions.php:90
+msgid "Main Menu"
+msgstr "Hoofdmenu"
+
+#: functions.php:185 inc/shortcodes/shortcode-urgency-countdown.php:64
+msgid "day"
+msgstr "dag"
+
+#: functions.php:186
+msgid "days"
+msgstr "dagen"
+
+#: functions.php:187
+msgid "hour"
+msgstr "uur"
+
+#: functions.php:188
+msgid "hours"
+msgstr "uren"
+
+#: functions.php:190
+msgid "minute"
+msgstr "minuut"
+
+#: functions.php:191
+msgid "minutes"
+msgstr "minuten"
+
+#: functions.php:193
+msgid "second"
+msgstr "seconde"
+
+#: functions.php:194
+msgid "seconds"
+msgstr "seconden"
+
+#: functions.php:196
+msgid "New item has been added."
+msgstr "Er is een nieuw item toegevoegd."
+
+#: inc/customizer/class-customize-base.php:277
+msgid "General"
+msgstr ""
+
+#: inc/customizer/class-customize-base.php:278
+msgid "Site wide settings."
+msgstr ""
+
+#: inc/customizer/class-customize-base.php:284 inc/theme-sidebars.php:62
+msgid "Header"
+msgstr "Koptekst"
+
+#: inc/customizer/class-customize-base.php:285
+msgid "Header settings."
+msgstr ""
+
+#: inc/customizer/class-customize-base.php:291
+msgid "Shop (WooCommerce)"
+msgstr ""
+
+#: inc/customizer/class-customize-base.php:292
+msgid "Shop (WooCommerce) settings."
+msgstr ""
+
+#: inc/customizer/class-customize-base.php:298 inc/theme-sidebars.php:106
+msgid "Footer"
+msgstr "Voettekst"
+
+#: inc/customizer/class-customize-base.php:299
+msgid "All layout and appearance settings for the footer."
+msgstr "Alle opmaak en uiterlijke instellingen voor de footer."
+
+#: inc/customizer/class-customize-base.php:305
+#: template-parts/page-header.php:45
+msgid "Blog"
+msgstr "Blog"
+
+#: inc/customizer/class-customize-base.php:306
+#, fuzzy
+msgid "All blog layout and appearance settings."
+msgstr "Alle opmaak en uiterlijke instellingen voor de header."
+
+#: inc/customizer/class-customize-base.php:315
+msgid "Additional JavaScript"
+msgstr ""
+
+#: inc/customizer/class-customize-base.php:324
+msgid "Other"
+msgstr "Overige"
+
+#: inc/customizer/class-customize-base.php:339
+msgid "Global Colors"
+msgstr ""
+
+#: inc/customizer/class-customize-base.php:345
+#: inc/customizer/class-customize-base.php:484
+#: inc/customizer/class-customize-base.php:503
+msgid "Layout"
+msgstr "Layout"
+
+#: inc/customizer/class-customize-base.php:351
+msgid "Homepage Settings"
+msgstr ""
+
+#: inc/customizer/class-customize-base.php:357
+msgid "Site Identity"
+msgstr ""
+
+#: inc/customizer/class-customize-base.php:363
+#, fuzzy
+msgid "WoonderShop Skins"
+msgstr "WoonderShop PT"
+
+#: inc/customizer/class-customize-base.php:364
+msgid ""
+"WoonderShop skins allow you to dramatically change the look&amp;feel of your "
+"eCommerce store."
+msgstr ""
+
+#: inc/customizer/class-customize-base.php:371
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/customizer/class-customize-base.php:372
+msgid "Logo for the WoonderShop theme."
+msgstr "Logo voor het WoonderShop-thema."
+
+#: inc/customizer/class-customize-base.php:378
+msgid "Top Bar Area"
+msgstr ""
+
+#: inc/customizer/class-customize-base.php:379
+msgid "Settings for top bar area."
+msgstr ""
+
+#: inc/customizer/class-customize-base.php:385
+#, fuzzy
+msgid "Header Widgets Area"
+msgstr "Zichtbaarheid koptekst widgetgebied"
+
+#: inc/customizer/class-customize-base.php:386
+#, fuzzy
+msgid "Settings for header widgets area."
+msgstr "Toon of verberg widgetgebied in koptekst?"
+
+#: inc/customizer/class-customize-base.php:392
+msgid "Navigation"
+msgstr "Navigatie"
+
+#: inc/customizer/class-customize-base.php:393
+msgid "Navigation for the WoonderShop theme."
+msgstr "Navigatie voor het WoonderShop-thema."
+
+#: inc/customizer/class-customize-base.php:399
+#, fuzzy
+msgid "Page Title Area and Breadcrumbs"
+msgstr "Achtergrondkleur paginatitel"
+
+#: inc/customizer/class-customize-base.php:400
+#, fuzzy
+msgid "Settings for page title area."
+msgstr "Toon paginatitel gebied"
+
+#: inc/customizer/class-customize-base.php:406
+#, fuzzy
+msgid "Benefit Bar Area"
+msgstr "Voordeelbalk"
+
+#: inc/customizer/class-customize-base.php:407
+msgid "Settings for benefit bar area."
+msgstr ""
+
+#: inc/customizer/class-customize-base.php:416
+#, fuzzy
+msgid "Sticky Header"
+msgstr "Sticky koptekst op mobiel"
+
+#: inc/customizer/class-customize-base.php:417
+#, fuzzy
+msgid "Settings for sticky header on mobile and desktop."
+msgstr "Sticky koptekst op desktop"
+
+#: inc/customizer/class-customize-base.php:423
+#, fuzzy
+msgid "Mobile Header"
+msgstr "Koptekst"
+
+#: inc/customizer/class-customize-base.php:424
+msgid "Settings for mobile header."
+msgstr ""
+
+#: inc/customizer/class-customize-base.php:430
+#, fuzzy
+msgid "Background Color"
+msgstr "Body achtergrondkleur"
+
+#: inc/customizer/class-customize-base.php:431
+#, fuzzy
+msgid "Change heeader background color."
+msgstr "Koptekst achtergrondkleur"
+
+#: inc/customizer/class-customize-base.php:440
+#, fuzzy
+msgid "Product Catalog"
+msgstr "Producttype:"
+
+#: inc/customizer/class-customize-base.php:446
+#, fuzzy
+msgid "Product Page"
+msgstr "Producttype:"
+
+#: inc/customizer/class-customize-base.php:452
+#, fuzzy
+msgid "Product Images"
+msgstr "Producttype:"
+
+#: inc/customizer/class-customize-base.php:458
+msgid "Checkout Page"
+msgstr ""
+
+#: inc/customizer/class-customize-base.php:464
+msgid "Store Notice"
+msgstr ""
+
+#: inc/customizer/class-customize-base.php:472
+#, fuzzy
+msgid "Footer Benefit Bar"
+msgstr "Voordeelbalk"
+
+#: inc/customizer/class-customize-base.php:478
+msgid "Back to Top"
+msgstr ""
+
+#: inc/customizer/class-customize-base.php:490
+#, fuzzy
+msgid "Bottom Bar Content"
+msgstr "Importeer content"
+
+#: inc/customizer/class-customize-base.php:496
+msgid "Colors"
+msgstr ""
+
+#: inc/customizer/class-customize-base.php:509
+msgid "Single Post"
+msgstr ""
+
+#: inc/customizer/class-customize-base.php:544
+msgid "Text color"
+msgstr "Tekstkleur"
+
+#: inc/customizer/class-customize-base.php:554
+msgid "Headings color"
+msgstr "Koptekst kleur"
+
+#: inc/customizer/class-customize-base.php:564
+msgid "Primary color"
+msgstr "Primaire kleur"
+
+#: inc/customizer/class-customize-base.php:574
+msgid "Link color"
+msgstr "Link kleur"
+
+#: inc/customizer/class-customize-base.php:584
+#, fuzzy
+msgid "Link hover color"
+msgstr "Link kleur"
+
+#: inc/customizer/class-customize-base.php:603
+#, fuzzy
+msgid "Primary button background color"
+msgstr "Donkere knop achtergrondkleur"
+
+#: inc/customizer/class-customize-base.php:616
+msgid "Secondary button background color"
+msgstr "Achtergrondkleur secundaire knop"
+
+#: inc/customizer/class-customize-base.php:629
+msgid "Light button color"
+msgstr "Lichte knopkleur"
+
+#: inc/customizer/class-customize-base.php:639
+msgid "Light button background color"
+msgstr "Lichte knop achtergrondkleur"
+
+#: inc/customizer/class-customize-base.php:649
+msgid "Dark button background color"
+msgstr "Donkere knop achtergrondkleur"
+
+#: inc/customizer/class-customize-base.php:668
+#, fuzzy
+msgid "Primary custom icon color"
+msgstr "Primaire kleur"
+
+#: inc/customizer/class-customize-base.php:669
+msgid "The primary color for the %1$sWoonderShop custom icons%2$s."
+msgstr ""
+
+#: inc/customizer/class-customize-base.php:679
+#, fuzzy
+msgid "Secondary custom icon color"
+msgstr "Achtergrondkleur secundaire knop"
+
+#: inc/customizer/class-customize-base.php:680
+msgid "The secondary color for the %1$sWoonderShop custom icons%2$s."
+msgstr ""
+
+#: inc/customizer/class-customize-base.php:699
+msgid "Slider title color"
+msgstr "Slider titelkleur"
+
+#: inc/customizer/class-customize-base.php:709
+msgid "Slider text color"
+msgstr "Slider tekstkleur"
+
+#: inc/customizer/class-customize-base.php:728
+msgid "Body background color"
+msgstr "Body achtergrondkleur"
+
+#: inc/customizer/class-customize-base.php:738
+msgid "Body background image"
+msgstr "Body achtergrondafbeelding"
+
+#: inc/customizer/class-customize-base.php:744
+msgid "Body background repeat"
+msgstr "Body achtergrond herhaling"
+
+#: inc/customizer/class-customize-base.php:751
+msgid "No Repeat"
+msgstr "Niet herhalen"
+
+#: inc/customizer/class-customize-base.php:752
+msgid "Tile"
+msgstr "Tegel"
+
+#: inc/customizer/class-customize-base.php:753
+msgid "Tile Horizontally"
+msgstr "Tegel horizontaal"
+
+#: inc/customizer/class-customize-base.php:754
+msgid "Tile Vertically"
+msgstr "Tegel verticaal"
+
+#: inc/customizer/class-customize-base.php:759
+msgid "Body background image position"
+msgstr "Body positie achtergrondafbeelding"
+
+#: inc/customizer/class-customize-base.php:771
+msgid "Body background attachment"
+msgstr "Body bijlage achtergrond"
+
+#: inc/customizer/class-customize-base.php:778
+msgid "Scroll"
+msgstr "Scrollen"
+
+#: inc/customizer/class-customize-base.php:779
+msgid "Fixed (parallax effect)"
+msgstr "Stationair (parallaxeffect)"
+
+#: inc/customizer/class-customize-base.php:788
+#: inc/customizer/class-customize-base.php:1275
+#, fuzzy
+msgid "Background color"
+msgstr "Body achtergrondkleur"
+
+#: inc/customizer/class-customize-base.php:789
+msgid ""
+"This background color is only visible with boxed (General -> Layout) setting."
+msgstr ""
+
+#: inc/customizer/class-customize-base.php:799
+msgid "Preset"
+msgstr ""
+
+#: inc/customizer/class-customize-base.php:802
+#: inc/customizer/class-customize-base.php:870
+#, fuzzy
+msgid "Default"
+msgstr "Standaard sortering"
+
+#: inc/customizer/class-customize-base.php:803
+#: inc/customizer/class-customize-base.php:832
+msgid "Fill Screen"
+msgstr ""
+
+#: inc/customizer/class-customize-base.php:804
+#: inc/customizer/class-customize-base.php:831
+msgid "Fit to Screen"
+msgstr ""
+
+#: inc/customizer/class-customize-base.php:805
+#, fuzzy
+msgid "Repeat"
+msgstr "Niet herhalen"
+
+#: inc/customizer/class-customize-base.php:806
+#, fuzzy
+msgid "Custom"
+msgstr "Aangepaste URL"
+
+#: inc/customizer/class-customize-base.php:815
+#, fuzzy
+msgid "Image Position"
+msgstr "Tekstpositie:"
+
+#: inc/customizer/class-customize-base.php:827
+#, fuzzy
+msgid "Image Size"
+msgstr "Afbeelding Banner"
+
+#: inc/customizer/class-customize-base.php:830
+msgid "Original"
+msgstr ""
+
+#: inc/customizer/class-customize-base.php:839
+#, fuzzy
+msgid "Repeat Background Image"
+msgstr "Koptekst achtergrondafbeelding"
+
+#: inc/customizer/class-customize-base.php:846
+msgid "Scroll with Page"
+msgstr ""
+
+#: inc/customizer/class-customize-base.php:854
+#, fuzzy
+msgid "Choose layout"
+msgstr "Sluit sorteren"
+
+#: inc/customizer/class-customize-base.php:857
+msgid "Wide"
+msgstr "Breed"
+
+#: inc/customizer/class-customize-base.php:858
+msgid "Boxed"
+msgstr "Omkaderd"
+
+#: inc/customizer/class-customize-base.php:866
+#, fuzzy
+msgid "Select skin"
+msgstr "Selecteer icoon:"
+
+#: inc/customizer/class-customize-base.php:871
+msgid "Jungle (inspired by Amazon.com)"
+msgstr ""
+
+#: inc/customizer/class-customize-base.php:881
+msgid "Logo Image"
+msgstr "Logo afbeelding"
+
+#: inc/customizer/class-customize-base.php:882
+msgid "Max recommended height for the logo image is 95px."
+msgstr "Maximaal aanbevolen hoogte voor het logo is 95 pixels."
+
+#: inc/customizer/class-customize-base.php:891
+msgid "Retina Logo Image"
+msgstr "Retina logo afbeelding"
+
+#: inc/customizer/class-customize-base.php:892
+msgid "2x logo size, for screens with high DPI."
+msgstr "2x logo formaat voor schermen met hoge dpi."
+
+#: inc/customizer/class-customize-base.php:901
+msgid "Logo Padding Top"
+msgstr "Logo opvulling boven"
+
+#: inc/customizer/class-customize-base.php:910
+msgid "Logo Padding Right"
+msgstr "Logo opvulling rechts"
+
+#: inc/customizer/class-customize-base.php:919
+msgid "Logo Padding Bottom"
+msgstr "Logo opvulling onder"
+
+#: inc/customizer/class-customize-base.php:928
+msgid "Logo Padding Left"
+msgstr "Logo opvulling links"
+
+#: inc/customizer/class-customize-base.php:934
+#: inc/customizer/class-customize-base.php:1321
+#: inc/customizer/class-customize-base.php:1394
+#: inc/customizer/class-customize-base.php:1409
+#: inc/customizer/class-customize-base.php:1611
+#: inc/customizer/class-customize-base.php:1622
+#: inc/customizer/class-customize-base.php:1633
+#: inc/customizer/class-customize-base.php:1656
+msgid "Show"
+msgstr "Weergeven"
+
+#: inc/customizer/class-customize-base.php:935
+#: inc/customizer/class-customize-base.php:1323
+#: inc/customizer/class-customize-base.php:1393
+#: inc/customizer/class-customize-base.php:1408
+#: inc/customizer/class-customize-base.php:1610
+#: inc/customizer/class-customize-base.php:1621
+#: inc/customizer/class-customize-base.php:1632
+#: inc/customizer/class-customize-base.php:1655
+msgid "Hide"
+msgstr "Verbergen"
+
+#: inc/customizer/class-customize-base.php:936
+msgid "Hide on Mobile"
+msgstr "Verberg op mobiel"
+
+#: inc/customizer/class-customize-base.php:943
+msgid "Top Left bar visibility"
+msgstr "Zichtbaarheid balk linksboven"
+
+#: inc/customizer/class-customize-base.php:944
+msgid "Show or hide Top Left widgets area?"
+msgstr "Toon of verberg widgetgebied links bovenaan?"
+
+#: inc/customizer/class-customize-base.php:952
+msgid "Show Top Left bar only on home page"
+msgstr "Toon balk linksboven alleen op de homepagina"
+
+#: inc/customizer/class-customize-base.php:959
+msgid "Top Right bar visibility"
+msgstr "Zichtbaarheid balk rechtsboven"
+
+#: inc/customizer/class-customize-base.php:960
+msgid "Show or hide Top Right widgets area?"
+msgstr "Toon of verberg widgetgebied rechts bovenaan?"
+
+#: inc/customizer/class-customize-base.php:968
+msgid "Show Top Right bar only on home page"
+msgstr "Toon de balk rechtsboven alleen op de homepagina"
+
+#: inc/customizer/class-customize-base.php:976
+msgid "Header widget area visibility"
+msgstr "Zichtbaarheid koptekst widgetgebied"
+
+#: inc/customizer/class-customize-base.php:977
+msgid "Show or hide Header widget area?"
+msgstr "Toon of verberg widgetgebied in koptekst?"
+
+#: inc/customizer/class-customize-base.php:985
+msgid "Show Header widget area only on home page"
+msgstr "Toon koptekst widgetgebied alleen op de homepagina"
+
+#: inc/customizer/class-customize-base.php:995
+msgid "Featured dropdown background color"
+msgstr "Uitgelicht dropdown achtergrondkleur"
+
+#: inc/customizer/class-customize-base.php:1008
+msgid "Main navigation background color"
+msgstr "Hoofdnavigatie achtergrondkleur"
+
+#: inc/customizer/class-customize-base.php:1021
+msgid "Main navigation text color"
+msgstr "Hoofdnavigatie tekstkleur"
+
+#: inc/customizer/class-customize-base.php:1031
+msgid "Main navigation text hover color"
+msgstr "Hoofdnavigatie tekstkleur zweven"
+
+#: inc/customizer/class-customize-base.php:1041
+msgid "Main navigation current text color"
+msgstr "Hoofdnavigatie tekstkleur huidige"
+
+#: inc/customizer/class-customize-base.php:1051
+msgid "Main navigation submenu background"
+msgstr "Hoofdnavigatie submenu achtergrond"
+
+#: inc/customizer/class-customize-base.php:1061
+#, fuzzy
+msgid "Main navigation submenu text color"
+msgstr "Hoofdnavigatie submenu tekstkleur (mobiel)"
+
+#: inc/customizer/class-customize-base.php:1070
+#, fuzzy
+msgid "Main navigation submenu text hover color"
+msgstr "Hoofdnavigatie tekstkleur zweven"
+
+#: inc/customizer/class-customize-base.php:1092
+msgid "Main navigation background color (mobile)"
+msgstr "Hoofdnavigatie achtergrondkleur (mobiel)"
+
+#: inc/customizer/class-customize-base.php:1102
+msgid "Main navigation text color (mobile)"
+msgstr "Hoofdnavigatie tekstkleur (mobiel)"
+
+#: inc/customizer/class-customize-base.php:1112
+msgid "Main navigation item hover background color (mobile)"
+msgstr "Hoofdnavigatie item achtergrondkleur zweven (mobiel)"
+
+#: inc/customizer/class-customize-base.php:1122
+msgid "Main navigation submenu background color (mobile)"
+msgstr "Hoofdnavigatie submenu achtergrondkleur (mobiel)"
+
+#: inc/customizer/class-customize-base.php:1132
+msgid "Main navigation submenu text color (mobile)"
+msgstr "Hoofdnavigatie submenu tekstkleur (mobiel)"
+
+#: inc/customizer/class-customize-base.php:1142
+msgid "Main navigation submenu item hover color (mobile)"
+msgstr "Hoofdnavigatie submenu item kleur zweven (mobiel)"
+
+#: inc/customizer/class-customize-base.php:1154
+msgid "Show page title area"
+msgstr "Toon paginatitel gebied"
+
+#: inc/customizer/class-customize-base.php:1155
+msgid ""
+"This will hide the page title area on all pages. You can also hide "
+"individual page headers in page settings. To remove breadcrumbs from all "
+"pages, please deactivate the Breadcrumb NavXT plugin."
+msgstr ""
+"Dit verbergt het gebied voor de paginatitel op alle pagina's. Je kunt ook "
+"individueel pagina kopteksten verbergen in de pagina-instellingen. Om het "
+"kruimelpad van alle pagina's te verwijderen, de-activeer de plugin "
+"Breadcrumb NavXT."
+
+#: inc/customizer/class-customize-base.php:1164
+msgid "Page title area background color"
+msgstr "Achtergrondkleur paginatitel"
+
+#: inc/customizer/class-customize-base.php:1177
+msgid "Page title area background color opacity"
+msgstr "Dekking achtergrondkleur paginatitel"
+
+#: inc/customizer/class-customize-base.php:1178
+msgid "Input the opacity percentage (0 - 100)"
+msgstr "Invoer dekkingsgraad in procenten (0 - 100)"
+
+#: inc/customizer/class-customize-base.php:1195
+msgid "Page title color"
+msgstr "Kleur paginatitel"
+
+#: inc/customizer/class-customize-base.php:1206
+msgid "Breadcrumbs text color"
+msgstr "Tekstkleur kruimelpad"
+
+#: inc/customizer/class-customize-base.php:1216
+msgid "Benefit bar visibility"
+msgstr "Zichtbaarheid voordeelbalk"
+
+#: inc/customizer/class-customize-base.php:1217
+msgid "Show or hide Benefit bar underneath the main menu?"
+msgstr "Toon of verberg de voordeelbalk onder het hoofdmenu?"
+
+#: inc/customizer/class-customize-base.php:1228
+msgid "Show Benefit bar only on home page"
+msgstr "Toon de voordeelbalk alleen op de homepagina"
+
+#: inc/customizer/class-customize-base.php:1239
+msgid "Sticky header on desktop"
+msgstr "Sticky koptekst op desktop"
+
+#: inc/customizer/class-customize-base.php:1240
+msgid "Desktop header contains logo and header widget area."
+msgstr "Desktop koptekst bevat logo en koptekst widget gebied."
+
+#: inc/customizer/class-customize-base.php:1247
+msgid "Sticky header on mobile"
+msgstr "Sticky koptekst op mobiel"
+
+#: inc/customizer/class-customize-base.php:1248
+msgid ""
+"Mobile header contains essential eCommerce features (navigation, logo, "
+"search, cart) and it's highly recommended to turn this feature on for the "
+"best shopping experience."
+msgstr ""
+"Mobiele header bevat essentiële eCommerce kenmerken (navigatie, logo, "
+"zoeken, winkelmand) en het is ten zeerste aanbevolen om deze optie in te "
+"schakelen voor de beste winkelervaring."
+
+#: inc/customizer/class-customize-base.php:1256
+msgid "Show mobile search"
+msgstr "Toon mobiel zoeken"
+
+#: inc/customizer/class-customize-base.php:1257
+msgid "Show or hide the mobile search in the header."
+msgstr "Toon of verberg mobiel zoeken in de koptekst."
+
+#: inc/customizer/class-customize-base.php:1264
+msgid "Show mobile cart"
+msgstr "Toon mobiele winkelmand"
+
+#: inc/customizer/class-customize-base.php:1265
+msgid "Show or hide the mobile cart in the header."
+msgstr "Toon of verberg mobiele winkelmand in koptekst."
+
+#: inc/customizer/class-customize-base.php:1285
+msgid "Number of products per page"
+msgstr "Aantal producten per pagina"
+
+#: inc/customizer/class-customize-base.php:1291
+#, fuzzy
+msgid "Number of products per row"
+msgstr "Aantal producten per pagina"
+
+#: inc/customizer/class-customize-base.php:1307
+msgid "Show add to cart button?"
+msgstr "Toon “In winkelwagen” knop?"
+
+#: inc/customizer/class-customize-base.php:1308
+msgid ""
+"Show or hide the add to cart button on the shop pages (shop, categories, "
+"tags, ...)."
+msgstr ""
+"Toon of verberg de toevoegen aan winkelmand knop op de winkelpagina's "
+"(winkel, categorieën, labels,...)."
+
+#: inc/customizer/class-customize-base.php:1317
+msgid "Add to cart button display options"
+msgstr ""
+
+#: inc/customizer/class-customize-base.php:1318
+#, fuzzy
+msgid ""
+"Show, hide or show on hover the add to cart button on the shop pages (shop, "
+"categories, tags, ...)."
+msgstr ""
+"Toon of verberg de toevoegen aan winkelmand knop op de winkelpagina's "
+"(winkel, categorieën, labels,...)."
+
+#: inc/customizer/class-customize-base.php:1322
+#, fuzzy
+msgid "Show on product hover"
+msgstr "Toon enkel-product koptekst gebied?"
+
+#: inc/customizer/class-customize-base.php:1332
+msgid "Sidebar on single product page"
+msgstr "Zijbalk op enkel-productpagina"
+
+#: inc/customizer/class-customize-base.php:1336
+#: inc/customizer/class-customize-base.php:1598
+#: inc/customizer/class-customize-base.php:1643
+msgid "No sidebar"
+msgstr "Geen zijbalk"
+
+#: inc/customizer/class-customize-base.php:1337
+#: inc/customizer/class-customize-base.php:1599
+#: inc/customizer/class-customize-base.php:1644
+msgid "Left"
+msgstr "Links"
+
+#: inc/customizer/class-customize-base.php:1338
+#: inc/customizer/class-customize-base.php:1600
+#: inc/customizer/class-customize-base.php:1645
+msgid "Right"
+msgstr "Rechts"
+
+#: inc/customizer/class-customize-base.php:1345
+msgid "Show single product header area?"
+msgstr "Toon enkel-product koptekst gebied?"
+
+#: inc/customizer/class-customize-base.php:1346
+msgid ""
+"Show or hide the single product header area (with shop title and "
+"breadcrumbs)."
+msgstr ""
+"Toon of verberg het enkel-product koptekst gebied (met winkel titel en "
+"kruimelpad)."
+
+#: inc/customizer/class-customize-base.php:1355
+msgid "Show title in single product header area?"
+msgstr "Toon titel in enkel-product koptekst gebied?"
+
+#: inc/customizer/class-customize-base.php:1356
+msgid "Show or hide the title in single product header area."
+msgstr "Toon of verberg de titel in het enkel-product koptekst gebied."
+
+#: inc/customizer/class-customize-base.php:1365
+msgid "Show breadcrumbs in single product header area?"
+msgstr "Toon kruimelpad in enkel-product voettekst gebied?"
+
+#: inc/customizer/class-customize-base.php:1366
+msgid "Show or hide the breadcrumbs in single product header area."
+msgstr "Toon of verberg het kruimelpad in het enkel-product koptekst gebied."
+
+#: inc/customizer/class-customize-base.php:1372
+msgid "Show product meta data on single product page?"
+msgstr "Toon product meta data op enkel-productpagina?"
+
+#: inc/customizer/class-customize-base.php:1373
+msgid ""
+"Show or hide the product meta data (SKU, categories, tags,...) on single "
+"product page."
+msgstr ""
+"Toon of verberg de product meta data (SKU, categorieën, labels,...) op enkel-"
+"productpagina."
+
+#: inc/customizer/class-customize-base.php:1380
+msgid "Use floating labels on checkout?"
+msgstr "Gebruik zwevende labels bij afrekenen?"
+
+#: inc/customizer/class-customize-base.php:1381
+msgid ""
+"Use floating labels for inputs on the checkout page. Using floating labels "
+"makes the checkout less cluttered and cleaner."
+msgstr ""
+"Gebruik zwevende labels voor invoer op de afreken pagina. Gebruik maken van "
+"zwevende labels maakt de afrekenpagina minder rommelig en schoner."
+
+#: inc/customizer/class-customize-base.php:1388
+#, fuzzy
+msgid "Benefit bar above footer"
+msgstr "Zichtbaarheid voordeelbalk"
+
+#: inc/customizer/class-customize-base.php:1403
+msgid "Back to top button above footer"
+msgstr ""
+
+#: inc/customizer/class-customize-base.php:1422
+msgid "Footer widgets layout"
+msgstr "Opmaak voettekst widgets"
+
+#: inc/customizer/class-customize-base.php:1423
+msgid ""
+"Select number of widget you want in the footer and then with the slider "
+"rearrange the layout"
+msgstr ""
+"Selecteer het aantal widgets dat je in de koptekst wilt en verander de "
+"opmaak met de schuif"
+
+#: inc/customizer/class-customize-base.php:1438
+msgid "Footer bottom left text"
+msgstr "Voettekst tekst links onderaan"
+
+#: inc/customizer/class-customize-base.php:1445
+msgid "Footer bottom right text"
+msgstr "Voettekst tekst rechts onderaan"
+
+#: inc/customizer/class-customize-base.php:1452
+#, fuzzy
+msgid "Footer credits text"
+msgstr "Voettekst tekst rechts onderaan"
+
+#: inc/customizer/class-customize-base.php:1464
+#, fuzzy
+msgid "Back to top button background color"
+msgstr "Donkere knop achtergrondkleur"
+
+#: inc/customizer/class-customize-base.php:1478
+msgid "Footer background color"
+msgstr "Voettekst achtergrondkleur"
+
+#: inc/customizer/class-customize-base.php:1488
+msgid "Footer widget title color"
+msgstr "Titelkleur voettekst widget"
+
+#: inc/customizer/class-customize-base.php:1498
+msgid "Footer text color"
+msgstr "Voettekst tekstkleur"
+
+#: inc/customizer/class-customize-base.php:1508
+msgid "Footer link color"
+msgstr "Voettekst link kleur"
+
+#: inc/customizer/class-customize-base.php:1518
+msgid "Footer bottom background color"
+msgstr "Voettekst achtergrondkleur onderaan"
+
+#: inc/customizer/class-customize-base.php:1531
+msgid "Footer bottom text color"
+msgstr "Voettekst kleur onderaan"
+
+#: inc/customizer/class-customize-base.php:1544
+msgid "Footer bottom link color"
+msgstr "Voettekst link kleur onderaan"
+
+#: inc/customizer/class-customize-base.php:1557
+#, fuzzy
+msgid "Footer credits background color"
+msgstr "Voettekst achtergrondkleur"
+
+#: inc/customizer/class-customize-base.php:1570
+#, fuzzy
+msgid "Footer credits text color"
+msgstr "Voettekst tekstkleur"
+
+#: inc/customizer/class-customize-base.php:1580
+msgid "Number of blog columns"
+msgstr "Aantal blog kolommen"
+
+#: inc/customizer/class-customize-base.php:1593
+msgid "Sidebar on the blog"
+msgstr "Zijbalk op de blog"
+
+#: inc/customizer/class-customize-base.php:1605
+msgid "Read more link for each article."
+msgstr "Lees meer link voor ieder artikel."
+
+#: inc/customizer/class-customize-base.php:1616
+msgid "Search Box at the top of the blog"
+msgstr "Zoekbalk bovenaan de blog"
+
+#: inc/customizer/class-customize-base.php:1627
+msgid "Category box at the top of the blog"
+msgstr "Categoriebalk bovenaan de blog"
+
+#: inc/customizer/class-customize-base.php:1638
+msgid "Sidebar on the single post page"
+msgstr "Zijbalk op de enkele berichtpagina"
+
+#: inc/customizer/class-customize-base.php:1650
+msgid "Single post reading time"
+msgstr "Leestijd enkel bericht"
+
+#: inc/customizer/class-customize-base.php:1663
+msgid "Custom JavaScript (head)"
+msgstr "Aangepast Javascript (kop)"
+
+#: inc/customizer/class-customize-base.php:1664
+msgid ""
+"You have to include the &lt;script&gt;&lt;/script&gt; tags as well. Paste "
+"your Google Analytics tracking code here."
+msgstr ""
+"Je moet de tags &lt;script&gt;&lt;/script&gt; ook opnemen. Plak hier je "
+"Google Analytics tracking code."
+
+#: inc/customizer/class-customize-base.php:1670
+msgid "Custom JavaScript (footer)"
+msgstr "Aangepast Javascript (voet)"
+
+#: inc/customizer/class-customize-base.php:1671
+msgid "You have to include the &lt;script&gt;&lt;/script&gt; tags as well."
+msgstr "Je moet de tags &lt;script&gt;&lt;/script&gt; ook opnemen."
+
+#: inc/customizer/class-customize-base.php:1678
+msgid "Show ACF admin panel?"
+msgstr "Toon ACG beheerpaneel?"
+
+#: inc/customizer/class-customize-base.php:1679
+msgid ""
+"If you want to use ACF and need the ACF admin panel set this to %1$sYes%2$s. "
+"Do not change if you do not know what you are doing."
+msgstr ""
+"Wanneer je ACF wilt gebruiken en het ACF beheerpaneel nodig bent zet dit dan "
+"op  %1$sJa%2$s. Verander dit niet als je niet weet wat je doet."
+
+#: inc/customizer/class-customize-base.php:1682
+#: inc/customizer/class-customize-base.php:1692
+msgid "No"
+msgstr "Nee"
+
+#: inc/customizer/class-customize-base.php:1683
+#: inc/customizer/class-customize-base.php:1693
+msgid "Yes"
+msgstr "Ja"
+
+#: inc/customizer/class-customize-base.php:1689
+msgid "Use minified theme CSS (recommended)"
+msgstr "Gebruik geminimaliseerde CSS (Aanbevolen)"
+
+#: inc/customizer/class-customize-base.php:1699
+msgid "Character set for Google Fonts"
+msgstr "Tekenset voor Google Fonts"
+
+#: inc/customizer/class-woondershop-customizer-options.php:20
+#, fuzzy
+msgid "Footer benefit settings"
+msgstr "Voettekst tekst links onderaan"
+
+#: inc/customizer/class-woondershop-customizer-options.php:29
+#, fuzzy
+msgid "Benefit item"
+msgstr "Voordeelbalk"
+
+#: inc/customizer/class-woondershop-customizer-options.php:60
+msgid "Icon classes"
+msgstr ""
+
+#: inc/customizer/class-woondershop-customizer-options.php:61
+msgid ""
+"You can select the icons from the free %1$sFontAwesome icon collection%2$s "
+"or from the %3$sWoonderShop custom icons%2$s. Input a FontAwesome or "
+"WoonderShop custom icon classes, for example: %4$sfar fa-address-book%5$s or "
+"%4$sws ws-medal%5$s"
+msgstr ""
+
+#: inc/customizer/class-woondershop-customizer-options.php:66
+#: inc/widgets/widget-title-with-button.php:77
+#, fuzzy
+msgid "Title"
+msgstr "Titel:"
+
+#: inc/customizer/class-woondershop-customizer-options.php:71
+#, fuzzy
+msgid "Text"
+msgstr "Tekst:"
+
+#: inc/customizer/class-woondershop-customizer-options.php:76
+msgid "URL"
+msgstr ""
+
+#: inc/customizer/class-woondershop-customizer-options.php:77
+msgid ""
+"Do you want to link your benefit item? Input a URL! If left empty the block "
+"is not linkable."
+msgstr ""
+
+#: inc/customizer/class-woondershop-wp-customize-background-image-control.php:22
+#, fuzzy
+msgid "Background Image"
+msgstr "Body achtergrondafbeelding"
+
+#: inc/customizer/class-woondershop-wp-customize-background-image-control.php:23
+msgid ""
+"This background image is only visible with boxed (General -> Layout) setting."
+msgstr ""
+
+#: inc/documentation-link.php:15 inc/documentation-link.php:16
+#: inc/documentation-link.php:31
+msgid "Documentation"
+msgstr "Documentatie"
+
+#: inc/documentation-link.php:34
+msgid "Click here to see online documentation of the theme!"
+msgstr "Klik hier om de online documentatie van het thema te bekijken!"
+
+#. translators: %s represents a number
+#: inc/helpers.php:36
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] "%s Reactie"
+msgstr[1] "%s Reacties"
+
+#: inc/helpers.php:56
+msgid ""
+"The WooCommerce plugin has to be active in order to use this feature! Please "
+"activate the WooCommerce plugin."
+msgstr ""
+"De WooCommeerce plugin moet geactiveerd zijn om deze functie te gebruiken! "
+"Activeer de WooCommerce plugin."
+
+#: inc/helpers.php:83
+msgid "is empty"
+msgstr "is leeg"
+
+#: inc/helpers.php:264
+msgid "Edit"
+msgstr "Bewerken"
+
+#: inc/helpers.php:274
+msgid "Your comment is awaiting moderation."
+msgstr "Jouw reactie wacht op goedkeuring."
+
+#: inc/helpers.php:424
+msgid "Posted by"
+msgstr "Geplaatst door"
+
+#: inc/helpers.php:659
+msgid "Default sorting"
+msgstr "Standaard sortering"
+
+#: inc/helpers.php:660
+msgid "Sort by popularity"
+msgstr "Sorteer op populariteit"
+
+#: inc/helpers.php:661
+msgid "Sort by average rating"
+msgstr "Sorteer op gemiddelde beoordeling"
+
+#: inc/helpers.php:662
+msgid "Sort by newness"
+msgstr "Sorteer op nieuwheid"
+
+#: inc/helpers.php:663
+msgid "Sort by price: low to high"
+msgstr "Sorteer op prijs: laag naar hoog"
+
+#: inc/helpers.php:664
+msgid "Sort by price: high to low"
+msgstr "Sorteer op prijs: hoog naar laag"
+
+#: inc/helpers.php:668
+msgid "Relevance"
+msgstr "Relevantie"
+
+#: inc/hooks.php:662
+msgid ""
+"Please try to manually import the demo data. Here are instructions on how to "
+"do that: %1$sDocumentation: Import XML File%2$s"
+msgstr ""
+"Probeer de demogegevens handmatig te importeren. Hier volgen instructies "
+"over hoe dat te doen: %1$sDocumentation: Import XML File%2$s"
+
+#: inc/hooks.php:748
+msgid "ProteusThemes Widgets"
+msgstr "ProteusThemes Widgets"
+
+#: inc/hooks.php:1004
+msgid "Sort"
+msgstr "Sorteer"
+
+#: inc/hooks.php:1006
+msgid "Close sort"
+msgstr "Sluit sorteren"
+
+#: inc/hooks.php:1010
+msgid "Sort by:"
+msgstr "Sorteer op:"
+
+#: inc/hooks.php:1017
+msgid "Filter"
+msgstr "Filter"
+
+#: inc/hooks.php:1019
+msgid "Close filter"
+msgstr "Sluit filter"
+
+#: inc/hooks.php:1117
+msgid "Street address"
+msgstr "Straatnaam"
+
+#: inc/hooks.php:1118
+msgid "Apartment, suite, unit etc. (optional)"
+msgstr "Appartement, kamer, studio etc. (optioneel)"
+
+#: inc/hooks.php:1306
+msgid "Share"
+msgstr ""
+
+#: inc/hooks.php:1324
+msgid "In stock"
+msgstr ""
+
+#: inc/hooks.php:1324
+msgid "Out of stock"
+msgstr ""
+
+#: inc/hooks.php:1369
+#, fuzzy
+msgid "Brand text"
+msgstr "Knoptekst:"
+
+#: inc/hooks.php:1371
+msgid "Above the title. Accepts basic HTML."
+msgstr ""
+
+#: inc/hooks.php:1378
+msgid "Additional info"
+msgstr ""
+
+#: inc/hooks.php:1381
+msgid "Below the &quot;Add to cart&quot;. Accepts basic HTML."
+msgstr ""
+
+#: inc/hooks.php:1409
+msgid "Attribute used for image selector"
+msgstr ""
+
+#: inc/hooks.php:1409
+msgid ""
+"Choose different product images in the individual variations. Chosen images "
+"will be displayed and used as an image variation selector on frontend."
+msgstr ""
+
+#: inc/hooks.php:1411
+#: vendor/proteusthemes/wp-customizer-utilities/src/Helpers.php:26
+msgid "None"
+msgstr "Geen"
+
+#: inc/hooks.php:1472
+msgid "Your review"
+msgstr ""
+
+#: inc/hooks.php:1479
+msgid "Your rating"
+msgstr ""
+
+#: inc/hooks.php:1480
+msgid "Rate&hellip;"
+msgstr ""
+
+#: inc/hooks.php:1481
+msgid "Perfect"
+msgstr ""
+
+#: inc/hooks.php:1482
+msgid "Good"
+msgstr ""
+
+#: inc/hooks.php:1483
+msgid "Average"
+msgstr ""
+
+#: inc/hooks.php:1484
+msgid "Not that bad"
+msgstr ""
+
+#: inc/hooks.php:1485
+msgid "Very poor"
+msgstr ""
+
+#: inc/mega-menus/includes/class-smm-admin.php:34
+msgid "SMM Sidebar"
+msgstr "SMM zijbalk"
+
+#: inc/mega-menus/includes/class-smm-admin.php:36
+msgid "Widgets in this area will be shown on all posts and pages."
+msgstr ""
+"Widgets in dit gebied zullen getoond worden op alle berichten en pagina's."
+
+#: inc/mega-menus/includes/class-smm-customizer.php:120
+msgid ""
+"Add a widget to start. Drag and drop to re-arrange their display order. "
+"Adjust the width of each widget by dragging its edges."
+msgstr ""
+"Voeg een widget toe om te beginnen. Sleep en verplaats om de "
+"weergavevolgorde te wijzigen. Verander de breedte van iedere widget door de "
+"randen te slepen."
+
+#: inc/mega-menus/includes/class-smm-customizer.php:124
+msgid "Add a Widget"
+msgstr "Voeg een widget toe"
+
+#: inc/mega-menus/includes/class-smm-customizer.php:127
+msgid "Search Widgets"
+msgstr "Zoek widgets"
+
+#: inc/mega-menus/includes/class-smm-customizer.php:128
+msgid "Search widgets&hellip;"
+msgstr "Zoek widgets&hellip;"
+
+#: inc/mega-menus/includes/class-smm-customizer.php:146
+msgid "%sMega Menu%s: {{ data.item_title }}"
+msgstr "%sMega Menu%s: {{ data.item_title }}"
+
+#: inc/mega-menus/includes/class-smm-customizer.php:150
+msgid "Enable"
+msgstr "Inschakelen"
+
+#: inc/mega-menus/includes/class-smm-customizer.php:154
+msgid ""
+"A Mega Menu can only be added to a top level menu item. This Mega Menu will "
+"not be displayed."
+msgstr ""
+"Een Mega Menu can alleen worden toegevoegd aan een menu item op hoofdniveau. "
+"Dit Mega Menu wordt niet weergegeven."
+
+#: inc/mega-menus/includes/class-smm-customizer.php:197
+msgid "Mega Menu"
+msgstr "Mega Menu"
+
+#: inc/mega-menus/mega-menus.php:97 inc/mega-menus/mega-menus.php:106
+msgid "Cheatin&#8217; huh?"
+msgstr "Hé, valsspelen?"
+
+#: inc/merlin-config.php:38
+msgid "Theme Setup"
+msgstr "Thema-setup"
+
+#: inc/merlin-config.php:39
+msgid "%s%s Themes &lsaquo; Theme Setup: %s%s"
+msgstr "%s%s Thema's &lsaquo; Thema-setup: %s%s"
+
+#: inc/merlin-config.php:41
+msgid "Return to the dashboard"
+msgstr "Terug naar het dashboard"
+
+#: inc/merlin-config.php:43
+msgid "Skip"
+msgstr "Overslaan"
+
+#: inc/merlin-config.php:44 inc/widgets/widget-woonder-products.php:88
+#: inc/widgets-views/widget-testimonials.php:9
+#: template-parts/slick-carousel.php:28
+msgid "Next"
+msgstr "Volgende"
+
+#: inc/merlin-config.php:45
+msgid "Start"
+msgstr "Start"
+
+#: inc/merlin-config.php:46
+msgid "Cancel"
+msgstr "Annuleer"
+
+#: inc/merlin-config.php:47 inc/merlin-config.php:49 inc/merlin-config.php:50
+msgid "Install"
+msgstr "Installeer"
+
+#: inc/merlin-config.php:48
+#: vendor/proteusthemes/theme-registration-and-updates/views/pt-registration-page.php:31
+#: vendor/proteusthemes/theme-registration-and-updates/views/tf-registration-page.php:45
+msgid "Activate"
+msgstr "Activeer"
+
+#: inc/merlin-config.php:51
+msgid "Import"
+msgstr "Importeer"
+
+#: inc/merlin-config.php:53
+msgid "Welcome to %s"
+msgstr "Welkom bij %s"
+
+#: inc/merlin-config.php:54
+msgid "Hi. Welcome back"
+msgstr "Hallo. Welkom terug"
+
+#: inc/merlin-config.php:55
+msgid ""
+"This wizard will set up your theme, install plugins, and import content. It "
+"is optional & should take only a few minutes."
+msgstr ""
+"Deze wizard zal je thema instellen, plug-ins installeren en inhoud "
+"importeren. Het is optioneel en zou slechts een paar minuten moeten duren."
+
+#: inc/merlin-config.php:56
+msgid ""
+"You may have already run this theme setup wizard. If you would like to "
+"proceed anyway, click on the \"Start\" button below."
+msgstr ""
+"Mogelijk heb je deze wizard voor het instellen van thema's al uitgevoerd. "
+"Als je toch wilt doorgaan, klik dan op de knop \"Start\" hieronder."
+
+#: inc/merlin-config.php:58
+msgid "Register theme"
+msgstr "Registreer thema"
+
+#: inc/merlin-config.php:59 inc/merlin-config.php:66
+msgid "You're good to go!"
+msgstr "Je bent klaar om te gaan!"
+
+#: inc/merlin-config.php:60
+msgid ""
+"Input the theme license key and activate it, to unlock the theme's full "
+"potential."
+msgstr ""
+"Voer de licentiecode in en activeer het om het thema's volle potentieel te "
+"ontsluiten."
+
+#: inc/merlin-config.php:61
+#: vendor/proteusthemes/theme-registration-and-updates/views/pt-registration-page.php:25
+msgid "License key:"
+msgstr "Licentiecode:"
+
+#: inc/merlin-config.php:62
+msgid "The theme is already registered, so you can go to the next step!"
+msgstr "Het thema is al geregistreerd, dus je kunt door naar de volgende stap!"
+
+#: inc/merlin-config.php:63
+#: vendor/proteusthemes/theme-registration-and-updates/views/pt-registration-page.php:41
+msgid "Where can I find the license key?"
+msgstr "Waar kan ik de licentiecode vinden?"
+
+#: inc/merlin-config.php:65
+msgid "Install Child Theme"
+msgstr "Installeer Child thema"
+
+#: inc/merlin-config.php:67
+msgid ""
+"Let's build & activate a child theme so you may easily make theme changes."
+msgstr ""
+"Laten we een Child thema maken & activeren zodat je gemakkelijk wijzigingen "
+"in je thema kan aanbrengen."
+
+#: inc/merlin-config.php:68
+msgid ""
+"Your child theme has already been installed and is now activated, if it "
+"wasn't already."
+msgstr ""
+"Je Child thema is al geïnstalleerd en is nu geactiveerd, als dit nog niet "
+"was gebeurd."
+
+#: inc/merlin-config.php:69
+msgid "Learn about child themes"
+msgstr "Leer over Child thema's"
+
+#: inc/merlin-config.php:70
+msgid ""
+"Awesome. Your child theme has already been installed and is now activated."
+msgstr "Geweldig. Je Child thema is al geïnstalleerd en is nu geactiveerd."
+
+#: inc/merlin-config.php:71
+msgid "Awesome. Your child theme has been created and is now activated."
+msgstr "Geweldig. Je Child thema is gecreëerd en is nu geactiveerd."
+
+#: inc/merlin-config.php:73
+msgid "Install Plugins"
+msgstr "Installeer plug-ins"
+
+#: inc/merlin-config.php:74
+msgid "You're up to speed!"
+msgstr "Je bent op snelheid!"
+
+#: inc/merlin-config.php:75
+msgid ""
+"Let's install some essential WordPress plugins to get your site up to speed."
+msgstr ""
+"Laten we enkele essentiële WordPress-plug-ins installeren om je site op "
+"snelheid te brengen."
+
+#: inc/merlin-config.php:76
+msgid ""
+"The required WordPress plugins are all installed and up to date. Press \"Next"
+"\" to continue the setup wizard."
+msgstr ""
+"De vereiste WordPress-plug-ins zijn allemaal geïnstalleerd en up-to-date. "
+"Druk op \"Volgende\" om door te gaan met de setup-wizard."
+
+#: inc/merlin-config.php:77 inc/merlin-config.php:81
+msgid "Advanced"
+msgstr "Geavanceerd"
+
+#: inc/merlin-config.php:79
+msgid "Import Content"
+msgstr "Importeer content"
+
+#: inc/merlin-config.php:80
+msgid ""
+"Let's import content to your website, to help you get familiar with the "
+"theme. This might take a few minutes!"
+msgstr ""
+"Laten we inhoud naar je website importeren om je vertrouwd te maken met het "
+"thema. Dit kan een paar minuten duren!"
+
+#: inc/merlin-config.php:83
+msgid "All done. Have fun!"
+msgstr "Alles is gedaan! Veel plezier!"
+
+#: inc/merlin-config.php:84
+msgid "Your theme has been all set up. Enjoy your new theme by %s."
+msgstr "Je thema is helemaal ingesteld. Geniet van je nieuwe thema van %s."
+
+#: inc/merlin-config.php:85
+msgid "Extras"
+msgstr "Extra’s"
+
+#: inc/merlin-config.php:86
+msgid "View your website"
+msgstr "Bekijk je website"
+
+#: inc/merlin-config.php:88
+msgid "Explore WordPress"
+msgstr "Verken WordPress"
+
+#: inc/merlin-config.php:89
+msgid "Get Theme Support"
+msgstr "Krijg hulp voor thema's"
+
+#: inc/merlin-config.php:90
+msgid "Start Customizing"
+msgstr "Begin met aanpassen"
+
+#: inc/shortcodes/shortcode-time-left.php:35
+msgid "[invalid time format, for the time_left shortcode]"
+msgstr "[ongeldige tijdnotatie, voor de time_left shortcode]"
+
+#: inc/shortcodes/shortcode-urgency-countdown.php:49
+msgid "invalid date and time format, for the urgency_counter shortcode"
+msgstr "ongeldige datum-en tijdnotatie voor de urgency_counter shortcode"
+
+#: inc/theme-customizer.php:63
+msgid ""
+"Do you want that all color controls are re-set to the default colors of the "
+"selected theme skin?"
+msgstr ""
+
+#: inc/theme-customizer.php:64
+msgid ""
+"Note: This will make your new skin selection easier to customize, however, "
+"you will lose your current skin colors in the process."
+msgstr ""
+
+#: inc/theme-sidebars.php:12
+msgid "Blog Sidebar"
+msgstr "Blog zijbalk"
+
+#: inc/theme-sidebars.php:14
+msgid "Sidebar on the blog layout."
+msgstr "Zijbalk op de blog-layout."
+
+#: inc/theme-sidebars.php:26
+msgid "Regular Page Sidebar"
+msgstr "Normale paginazijbalk"
+
+#: inc/theme-sidebars.php:28
+msgid "Sidebar on the regular page."
+msgstr "Zijbalk op de reguliere pagina."
+
+#: inc/theme-sidebars.php:40
+msgid "Top Left"
+msgstr "Linksboven"
+
+#: inc/theme-sidebars.php:42
+#, fuzzy
+msgid ""
+"Top left widget area for Icon Box, Social Icons, Custom Menu or Text widget."
+msgstr ""
+"Linksboven widgetgebied voor pictogramvak, sociale pictogrammen, aangepast "
+"menu of tekstwidget."
+
+#: inc/theme-sidebars.php:51
+#, fuzzy
+msgid "Top Right"
+msgstr "Rechtsboven"
+
+#: inc/theme-sidebars.php:53
+#, fuzzy
+msgid ""
+"Top right widget area for Icon Box, Social Icons, Custom Menu or Text widget."
+msgstr ""
+"Rechtsboven widgetgebied voor pictogramvak, sociale pictogrammen, aangepast "
+"menu of tekstwidget."
+
+#: inc/theme-sidebars.php:64
+msgid ""
+"Header widget area for Cart, Icon Box, Buttons (Textwidget), Social Icons, "
+"Search, or Skype Button."
+msgstr ""
+"Koptekstwidget voor winkelwagen, pictogramvak, knoppen (tekstwidget), "
+"sociale pictogrammen, zoeken of Skype-knop."
+
+#: inc/theme-sidebars.php:74
+msgid "Benefit Bar"
+msgstr "Voordeelbalk"
+
+#: inc/theme-sidebars.php:76
+msgid "Benefit bar widget area under main navigation for Icon Box."
+msgstr "Voordeelbalk widgetgebied onder hoofdnavigatie voor pictogramvak."
+
+#: inc/theme-sidebars.php:87
+msgid "Shop Sidebar"
+msgstr "Winkel Zijbalk"
+
+#: inc/theme-sidebars.php:89
+msgid "Sidebar for the shop page"
+msgstr "Zijbalk voor de winkelpagina"
+
+#: inc/theme-sidebars.php:108
+msgid ""
+"Footer area works best with %d widgets. This number can be changed in the "
+"Appearance &rarr; Customize &rarr; Theme Options &rarr; Footer."
+msgstr ""
+"Voettekstgebied werkt het beste met %d widgets. Dit aantal kan worden "
+"gewijzigd in de Weergave &rarr; Aanpassen &rarr; Thema-opties &rarr; "
+"Voettekst."
+
+#: inc/widgets/widget-call-to-action.php:17
+msgid "Call to Action"
+msgstr "Call to Action"
+
+#: inc/widgets/widget-call-to-action.php:19
+msgid "Call to Action widget for Page Builder."
+msgstr "Call to Action widget voor Page Builder."
+
+#: inc/widgets/widget-call-to-action.php:83
+#: inc/widgets/widget-image-banner.php:162
+#: inc/widgets/widget-instagram.php:153 inc/widgets/widget-woo-cart.php:116
+msgid "Title:"
+msgstr "Titel:"
+
+#: inc/widgets/widget-call-to-action.php:87
+#: inc/widgets/widget-image-banner.php:166
+msgid "Subtitle:"
+msgstr "Subtitel:"
+
+#: inc/widgets/widget-call-to-action.php:91
+msgid "Button Area:"
+msgstr "Knopgebied:"
+
+#: inc/widgets/widget-call-to-action.php:94
+msgid ""
+"Input a button shortcode in the above field. Please take a look at the "
+"%1$sButtons Shortcode documentation%2$s to learn more on how to write button "
+"shortcodes."
+msgstr ""
+"Voer in het bovenstaande veld een shortcode voor de knop in. Bekijk de "
+"%1$sButtons Shortcode documentation%2$s voor meer informatie over het "
+"schrijven van knopkortingen."
+
+#: inc/widgets/widget-countdown.php:17
+msgid "ProteusThemes: Countdown"
+msgstr "ProteusThemes: Countdown"
+
+#: inc/widgets/widget-countdown.php:19
+msgid "Countdown timer to a specific date and time."
+msgstr "Countdown timer naar een specifieke datum en tijd."
+
+#: inc/widgets/widget-countdown.php:77
+msgid "End date and time:"
+msgstr "Einddatum en tijd:"
+
+#: inc/widgets/widget-countdown.php:84
+msgid ""
+"The date and time format is not correct! Please take a look at the example "
+"bellow and update the page."
+msgstr ""
+"Het datum- en tijdformaat is niet correct! Bekijk het onderstaande voorbeeld "
+"en werk de pagina bij."
+
+#: inc/widgets/widget-countdown.php:89
+msgid ""
+"Input the future date and time for the countdown. Example date format: "
+"04/25/2017 4:00 pm or 25.4.2017 16:00"
+msgstr ""
+"Voer de datum en tijd in de toekomst in voor het aftellen. Voorbeeld "
+"datumformaat: 25/04/2017 46:00 pm of 25.4.2017 16:00"
+
+#: inc/widgets/widget-countdown.php:94
+msgid "Hide labels?"
+msgstr "Verberg labels?"
+
+#: inc/widgets/widget-featured-product.php:13
+msgid "Featured Product"
+msgstr "Uitgelicht product"
+
+#: inc/widgets/widget-featured-product.php:14
+msgid "Select a WooCommerce product and display it with some details."
+msgstr "Selecteer een WooCommerce-product en toon het met enkele details."
+
+#: inc/widgets/widget-featured-product.php:62
+msgid ""
+"ProteusThemes - Featured Product widget: No product selected! Please select "
+"a WooCommerce product in the widget settings."
+msgstr ""
+"ProteusThemes - Featured Product widget: Geen product geselecteerd! "
+"Selecteer een WooCommerce-product in de widgetinstellingen."
+
+#: inc/widgets/widget-featured-product.php:90
+msgid "Product:"
+msgstr "Product:"
+
+#: inc/widgets/widget-featured-product.php:92
+msgid "-Select product-"
+msgstr "-Selecteer product-"
+
+#: inc/widgets/widget-image-banner.php:15
+msgid "Image Banner"
+msgstr "Afbeelding Banner"
+
+#: inc/widgets/widget-image-banner.php:16
+msgid "Linkable banner with image background and custom text."
+msgstr "Linkbare banner met afbeeldingsachtergrond en aangepaste tekst."
+
+#: inc/widgets/widget-image-banner.php:170
+msgid "Text color: "
+msgstr "Tekstkleur:"
+
+#: inc/widgets/widget-image-banner.php:174
+msgid "Text position: "
+msgstr "Tekstpositie:"
+
+#: inc/widgets/widget-image-banner.php:186
+msgid "Text size:"
+msgstr "Tekstgrootte:"
+
+#: inc/widgets/widget-image-banner.php:188
+msgid "Small"
+msgstr "Klein"
+
+#: inc/widgets/widget-image-banner.php:189
+msgid "Normal"
+msgstr "Normaal"
+
+#: inc/widgets/widget-image-banner.php:190
+msgid "Big"
+msgstr "Groot"
+
+#: inc/widgets/widget-image-banner.php:194
+msgid "Text container width:"
+msgstr "Tekstcontainerbreedte:"
+
+#: inc/widgets/widget-image-banner.php:196
+msgid "Full width"
+msgstr "Volledige breedte"
+
+#: inc/widgets/widget-image-banner.php:197
+msgid "Half width"
+msgstr "Halve breedte"
+
+#: inc/widgets/widget-image-banner.php:201
+msgid "Picture URL:"
+msgstr "Afbeelding URL:"
+
+#: inc/widgets/widget-image-banner.php:203
+msgid "Upload Image"
+msgstr "Upload afbeelding"
+
+#: inc/widgets/widget-image-banner.php:206
+#: inc/widgets/widget-instagram.php:161
+msgid "Link:"
+msgstr "Link:"
+
+#: inc/widgets/widget-image-banner.php:210
+msgid "Button text:"
+msgstr "Knoptekst:"
+
+#: inc/widgets/widget-image-banner.php:212
+msgid ""
+"If this field is empty, then the whole widget will be click-able, otherwise "
+"the button will appear."
+msgstr ""
+"Als dit veld leeg is, is de hele widget klikbaar, anders verschijnt de knop."
+
+#: inc/widgets/widget-image-banner.php:216
+msgid "Open link in new tab"
+msgstr "Open in nieuw tabblad"
+
+#: inc/widgets/widget-instagram.php:15
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/widgets/widget-instagram.php:16
+msgid "A row of images pulled from the Instagram for the Page Builder."
+msgstr "Een rij afbeeldingen afgenomen van Instagram voor de Page Builder."
+
+#: inc/widgets/widget-instagram.php:132
+msgid "Widget instructions:"
+msgstr "Widget-instructies:"
+
+#: inc/widgets/widget-instagram.php:134
+msgid "%1$sLogin and get your Instagram Access Token%2$s."
+msgstr "%1$sLog in en verkrijg je Instagram Access Token%2$s."
+
+#: inc/widgets/widget-instagram.php:135
+msgid ""
+"Once you complete the authentication steps, copy the Access Token to the "
+"field below."
+msgstr ""
+"Eenmaal de authenticatiestappen voltooid, kopieer de toegangstoken naar het "
+"onderstaande veld."
+
+#: inc/widgets/widget-instagram.php:139
+msgid "Instagram access token:"
+msgstr "Instagram access token:"
+
+#: inc/widgets/widget-instagram.php:144
+msgid "Number of Images:"
+msgstr "Aantal afbeeldingen:"
+
+#: inc/widgets/widget-instagram.php:149
+msgid "Show CTA box?"
+msgstr "Toon CTA kader?"
+
+#: inc/widgets/widget-instagram.php:157
+msgid "Text:"
+msgstr "Tekst:"
+
+#: inc/widgets/widget-instagram.php:165
+msgid "Select icon:"
+msgstr "Selecteer icoon:"
+
+#: inc/widgets/widget-instagram.php:166
+msgid "Click on the icon below or manually select from the %s website."
+msgstr ""
+"Klik op het onderstaande pictogram of selecteer handmatig de %s website."
+
+#: inc/widgets/widget-opening-time.php:21
+msgid "Opening Time"
+msgstr "Openingstijden"
+
+#: inc/widgets/widget-opening-time.php:23
+msgid "Displays a table of your opening hours."
+msgstr "Toont een tabel met de openingsuren."
+
+#: inc/widgets/widget-opening-time.php:118
+msgid "Opening time rows"
+msgstr "Openingstijden rijen"
+
+#: inc/widgets/widget-opening-time.php:124
+msgid "Opening time row"
+msgstr "Openingstijden rij"
+
+#: inc/widgets/widget-opening-time.php:131
+msgid "Day:"
+msgstr "Dag:"
+
+#: inc/widgets/widget-opening-time.php:136
+msgid "Time:"
+msgstr "Tijd:"
+
+#: inc/widgets/widget-opening-time.php:142
+msgid "Is this item less important?"
+msgstr "Is dit item minder belangrijk?"
+
+#: inc/widgets/widget-opening-time.php:144
+msgid "Useful for lunch breaks or other less important notifications."
+msgstr "Handig voor lunchpauzes of andere minder belangrijke meldingen."
+
+#: inc/widgets/widget-opening-time.php:149
+msgid "Remove item"
+msgstr "Verwijder item"
+
+#: inc/widgets/widget-opening-time.php:159
+msgid "Add new item"
+msgstr "Nieuw item toevoegen"
+
+#: inc/widgets/widget-title-with-button.php:13
+msgid "Title with Button"
+msgstr ""
+
+#: inc/widgets/widget-title-with-button.php:14
+#, fuzzy
+msgid "Title with Button widget for Page Builder."
+msgstr "Call to Action widget voor Page Builder."
+
+#: inc/widgets/widget-title-with-button.php:71
+#, fuzzy
+msgid "Read more"
+msgstr "Lees meer %s"
+
+#: inc/widgets/widget-title-with-button.php:81
+#, fuzzy
+msgid "Button text"
+msgstr "Knoptekst:"
+
+#: inc/widgets/widget-title-with-button.php:85
+#, fuzzy
+msgid "Button link"
+msgstr "Knopgebied:"
+
+#: inc/widgets/widget-title-with-button.php:90
+#, fuzzy
+msgid "Open Link in New Tab"
+msgstr "Open in nieuw tabblad"
+
+#: inc/widgets/widget-woo-cart.php:15
+msgid "Cart"
+msgstr "Winkelwagen"
+
+#: inc/widgets/widget-woo-cart.php:16
+msgid "WooCommerce cart with items dropdown"
+msgstr "WooCommerce winkelwagen met items dropdwon"
+
+#: inc/widgets/widget-woonder-products.php:15
+msgid "Woonder Products"
+msgstr "Woonder producten"
+
+#: inc/widgets/widget-woonder-products.php:16
+msgid "Feature rich WooCommerce products widget."
+msgstr "Functierijke WooCommerce producten widget."
+
+#: inc/widgets/widget-woonder-products.php:87
+#: inc/widgets-views/widget-testimonials.php:8
+#: template-parts/slick-carousel.php:27
+msgid "Previous"
+msgstr "Vorige"
+
+#: inc/widgets/widget-woonder-products.php:133
+msgid "Sale!"
+msgstr "Uitverkoop!"
+
+#: inc/widgets/widget-woonder-products.php:206
+msgid "Product type:"
+msgstr "Producttype:"
+
+#: inc/widgets/widget-woonder-products.php:208
+msgid "Recently added"
+msgstr "Onlangs toegevoegd"
+
+#: inc/widgets/widget-woonder-products.php:209
+msgid "Best selling"
+msgstr "Meest verkocht"
+
+#: inc/widgets/widget-woonder-products.php:210
+msgid "Top rated"
+msgstr "Best gewaardeerd"
+
+#: inc/widgets/widget-woonder-products.php:211
+msgid "Featured"
+msgstr "Uitgelicht"
+
+#: inc/widgets/widget-woonder-products.php:212
+msgid "On sale"
+msgstr "Aanbieding"
+
+#: inc/widgets/widget-woonder-products.php:217
+msgid "In category:"
+msgstr "In categorie:"
+
+#: inc/widgets/widget-woonder-products.php:221
+msgid "All"
+msgstr "Alle"
+
+#: inc/widgets/widget-woonder-products.php:236
+msgid "Number of products to display:"
+msgstr "Aantal producten om weer te geven:"
+
+#: inc/widgets/widget-woonder-products.php:242
+msgid "Display products in a slider!"
+msgstr "Toon producten in een slider!"
+
+#: inc/widgets/widget-woonder-products.php:246
+msgid "Number of products per slide:"
+msgstr "Aantal producten per slide:"
+
+#: inc/widgets-views/widget-testimonials.php:41
+msgid "Testimonial by: %s"
+msgstr ""
+
+#: searchform.php:9
+msgid "Search"
+msgstr "Zoeken"
+
+#: searchform.php:15 template-parts/blog-navigation.php:19
+msgid "Search for:"
+msgstr "Zoek naar: "
+
+#: single.php:42
+msgid "Previous reading"
+msgstr "Vorig bericht"
+
+#: single.php:50
+msgid "Next reading"
+msgstr "Volgend bericht"
+
+#: template-parts/blog-navigation.php:20
+msgid "Search posts, authors..."
+msgstr "Zoek berichten, auteurs..."
+
+#: template-parts/blog-navigation.php:28
+msgid "Category"
+msgstr "Categorie"
+
+#: template-parts/blog-navigation.php:39 template-parts/blog-navigation.php:56
+msgid "All posts"
+msgstr "Alle berichten"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Niets gevonden"
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? %1$sGet started here%2$s."
+msgstr "Klaar om  uw eerste bericht te publiceren? %1$sBegin hier%2$s."
+
+#: template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Sorry, maar niets paste bij je zoektermen. Probeer het opnieuw met enkele "
+"andere trefwoorden."
+
+#: template-parts/content-none.php:33
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Het lijkt erop dat we niet kunnen vinden waarnaar je op zoek bent. Misschien "
+"kan zoeken helpen."
+
+#. translators: after that comes pagination like 1, 2, 3 ... 10
+#: template-parts/content-page.php:18 template-parts/content-single.php:40
+msgid "Pages:"
+msgstr "Pagina's :"
+
+#: template-parts/content-search.php:27 template-parts/content.php:28
+msgid "Read more %s"
+msgstr "Lees meer %s"
+
+#: template-parts/content-single.php:20
+msgid "Author:"
+msgstr "Auteur:"
+
+#: template-parts/content-single.php:27
+msgid "%d min read"
+msgstr "%d min lezen"
+
+#: template-parts/page-header.php:64
+msgid "Search Results For"
+msgstr "Zoekresultaten voor"
+
+#: template-parts/page-header.php:67
+msgid "Error 404"
+msgstr "Fout 404"
+
+#: template-parts/slick-carousel.php:140
+msgid "Play button"
+msgstr "Afspeelknop"
+
+#: vendor/proteusthemes/theme-registration-and-updates/src/ThemeRegistration.php:181
+#: vendor/proteusthemes/theme-registration-and-updates/views/pt-registration-page.php:11
+#: vendor/proteusthemes/theme-registration-and-updates/views/tf-registration-page.php:11
+msgid "Theme Registration"
+msgstr "Thema-registratie"
+
+#: vendor/proteusthemes/theme-registration-and-updates/src/ThemeRegistration.php:221
+msgid "Request error: "
+msgstr "Fout verzoek: "
+
+#: vendor/proteusthemes/theme-registration-and-updates/src/ThemeRegistration.php:257
+#: vendor/proteusthemes/theme-registration-and-updates/src/ThemeRegistration.php:937
+msgid ""
+" However, you have been granted temporary access to all theme functionality "
+"for 3 hours. After 3 hours, please try to register the theme again. If you "
+"keep getting this error, please %1$scontact our support%2$s."
+msgstr ""
+" Echter, je hebt 3 uur tijdelijke toegang tot alle themafunctionaliteit "
+"gekregen. Probeer na 3 uur het thema opnieuw te registreren. Als je deze "
+"fout blijft ontvangen, vraag dan naar %1$sonze ondersteuning%2$s."
+
+#: vendor/proteusthemes/theme-registration-and-updates/src/ThemeRegistration.php:291
+msgid "Can't deactivate the purchase code, if the theme is not registered."
+msgstr ""
+"Kan de aankoopcode niet deactiveren als het thema niet is geregistreerd."
+
+#: vendor/proteusthemes/theme-registration-and-updates/src/ThemeRegistration.php:323
+msgid ""
+"Can't verify the Envato token, if the theme is not registered via a "
+"ThemeForest purchase code!"
+msgstr ""
+"Kan het Envato-token niet verifiëren, als het thema niet is geregistreerd "
+"via een ThemeForest-aankoopcode!"
+
+#: vendor/proteusthemes/theme-registration-and-updates/src/ThemeRegistration.php:373
+msgid ""
+"%1$sThe theme is not registered!%2$s %3$sPlease register your theme%4$s, to "
+"access %1$sTheme Settings%2$s, %1$sOne Click Demo Import%2$s and receive "
+"%1$sAutomatic Theme Updates%2$s."
+msgstr ""
+"%1$sHet thema is niet gerigistreerd!%2$s %3$sRegistreer je thema%4$s, om "
+"toegang te krijgen tot de  %1$sThema-instellingen%2$s, %1$sOne Click Demo "
+"Import%2$s en %1$sautomatiche thema -updates%2$s te ontvangen."
+
+#: vendor/proteusthemes/theme-registration-and-updates/src/ThemeRegistration.php:400
+msgid "[PT] Theme Options"
+msgstr "[PT] Thema-opties"
+
+#: vendor/proteusthemes/theme-registration-and-updates/src/ThemeRegistration.php:410
+msgid "Theme is not registered!"
+msgstr "Thema is niet geregistreerd!"
+
+#: vendor/proteusthemes/theme-registration-and-updates/src/ThemeRegistration.php:413
+msgid ""
+"%5$s%3$sPlease register your theme%4$s, to access these %1$sTheme Options"
+"%2$s.%6$s %5$sOnce you register your theme, you will also be able to use "
+"%1$sOne Click Demo Import%2$s and receive %1$sAutomatic Theme Updates%2$s."
+"%6$s"
+msgstr ""
+"%5$s%3$sRegistreer je thema%4$s, om toegang te krijgen tot %1$sThema-opties"
+"%2$s.%6$s %5$sEenmaal je thema geregistreerd heb je toegang tot %1$sOne "
+"Click Demo Import%2$s en ontvang je %1$sautomatiche thema -updates%2$s.%6$s"
+
+#: vendor/proteusthemes/theme-registration-and-updates/src/ThemeRegistration.php:431
+msgid ""
+"%3$sPlease register your theme%4$s, to access %1$sOur Support Dashboard%2$s!"
+msgstr ""
+"%3$sRegistreer je thema%4$s, om toegang te krijgen tot %1$sons Support "
+"Dashboard%2$s!"
+
+#: vendor/proteusthemes/theme-registration-and-updates/src/ThemeRegistration.php:434
+msgid ""
+"Visit our %6$sHelp center%4$s, where you can find the theme documentation "
+"and support articles, or login to our %5$sSupport dashboard%4$s, to open a "
+"new support ticket."
+msgstr ""
+"Bezoek ons %6$sHulp centrum%4$s, waar je de themadocumentatie en "
+"ondersteuningsartikelen kunt vinden of kunt inloggen op ons %5$sSupport "
+"dashboard%4$s, om een nieuw supportticket te openen."
+
+#: vendor/proteusthemes/theme-registration-and-updates/src/ThemeRegistration.php:438
+msgid "[PT] ProteusThemes Support"
+msgstr "[PT] ProteusThemes Support"
+
+#: vendor/proteusthemes/theme-registration-and-updates/src/ThemeRegistration.php:448
+msgid "ProteusThemes Support"
+msgstr "ProteusThemes Support"
+
+#: vendor/proteusthemes/theme-registration-and-updates/src/ThemeRegistration.php:471
+msgid ""
+"%5$sThe One Click Demo Import for this theme is disabled, because the theme "
+"is not registered!%7$s%3$sPlease register your theme%4$s, to access the "
+"%1$sOne Click Demo Import%2$s.%6$s"
+msgstr ""
+"%5$sDe One Click Demo Import is voor dit thema uitgeschakeld omdat het thema "
+"niet is geregistreerd!%7$s%3$sRegistreer je thema%4$s, om toegang te krijgen "
+"tot de %1$sOne Click Demo Import%2$s.%6$s"
+
+#: vendor/proteusthemes/theme-registration-and-updates/src/ThemeRegistration.php:499
+msgid "One Click Demo Import"
+msgstr "One Click Demo Import"
+
+#: vendor/proteusthemes/theme-registration-and-updates/src/ThemeRegistration.php:503
+msgid ""
+"The One Click Demo Import for this theme is disabled, because the theme is "
+"not registered!%5$s%1$sPlease register your theme%2$s, to access the %3$sOne "
+"Click Demo Import%4$s."
+msgstr ""
+"De One Click Demo Import is voor dit thema uitgeschakeld omdat het thema "
+"niet is geregistreerd!%5$s%1$sRegistreer je thema%2$s, om toegang te krijgen "
+"tot de  %3$sOne Click Demo Import%4$s."
+
+#: vendor/proteusthemes/theme-registration-and-updates/src/ThemeRegistration.php:513
+msgid ""
+"Once you register the theme, come back to this page and you will be able to "
+"import the demo data!"
+msgstr ""
+"Wanneer je het thema hebt geregistreerd keer dan terug naar deze pagina en "
+"is het mogelijk de demodata te importeren!"
+
+#: vendor/proteusthemes/theme-registration-and-updates/src/ThemeRegistration.php:763
+#: vendor/proteusthemes/theme-registration-and-updates/src/ThemeRegistration.php:920
+msgid "There was an error with the request to our server!"
+msgstr "Er is een fout opgetreden bij het verzoek aan onze server!"
+
+#: vendor/proteusthemes/theme-registration-and-updates/src/ThemeRegistration.php:791
+msgid "The WP nonce passed via the AJAX call was not valid!"
+msgstr "De WP-fout doorgegeven via de AJAX-call was niet geldig!"
+
+#: vendor/proteusthemes/theme-registration-and-updates/src/ThemeRegistration.php:800
+msgid ""
+"Your WP user role isn't high enough. You don't have the capability to switch "
+"themes."
+msgstr ""
+"Je WP-gebruikersrol is niet hoog genoeg. Je hebt niet de mogelijkheid om van "
+"thema te wisselen."
+
+#: vendor/proteusthemes/theme-registration-and-updates/src/ThemeUpdates.php:82
+msgid ""
+"Theme update is available: %1$s %2$s! %5$sHowever, your theme is not "
+"registered correctly and the theme update will fail because of that! Please "
+"%7$sregister the theme%4$s again with the same license key in order to solve "
+"the update issue%6$s. %3$sRead more about this issue here%4$s."
+msgstr ""
+"Thema update beschikbaar:%1$s %2$s! %5$sEchter, je thema is niet correct "
+"geregistreerd en de thema update zal daarom mislukken! Gelieve%7$shet thema "
+"opnieuw registreren%4$s met dezelfde licentiesleutel om het update probleem "
+"op te lossen%6$s.%3$sLees hier meer over dit probleem%4$s."
+
+#: vendor/proteusthemes/theme-registration-and-updates/src/ThemeUpdates.php:101
+msgid ""
+"Updating this theme will lose any customizations you have made to the "
+"original theme files (customizer settings will not be lost). 'Cancel' to "
+"stop, 'OK' to update."
+msgstr ""
+"Als je dit thema bijwerkt, gaan alle aanpassingen die in de originele "
+"themabestanden zijn gemaakt verloren (aanpassingsinstellingen gaan niet "
+"verloren). 'Annuleren' om te stoppen, 'OK' om bij te werken."
+
+#: vendor/proteusthemes/theme-registration-and-updates/src/ThemeUpdates.php:112
+msgid ""
+"Theme update is available: %5$s%1$s %2$s%6$s! %5$s%3$sUpdate now%4$s%6$s "
+"(check %7$s%1$s changelog%4$s)."
+msgstr ""
+"Thema-update verkrijgbaar: %5$s%1$s %2$s%6$s! %5$s%3$sUpdate nu%4$s%6$s "
+"(check %7$s%1$s changelog%4$s)."
+
+#: vendor/proteusthemes/theme-registration-and-updates/views/pt-registration-page.php:10
+#: vendor/proteusthemes/theme-registration-and-updates/views/tf-registration-page.php:10
+msgid "PT logo"
+msgstr "PT logo"
+
+#: vendor/proteusthemes/theme-registration-and-updates/views/pt-registration-page.php:15
+#: vendor/proteusthemes/theme-registration-and-updates/views/tf-registration-page.php:15
+msgid "Yey, you are using our %s theme, therefore, You are awesome!"
+msgstr "Yey, je gebruikt ons %s-thema, daarom ben je geweldig!"
+
+#: vendor/proteusthemes/theme-registration-and-updates/views/pt-registration-page.php:19
+msgid ""
+"To use the full potential of this theme, you will have to register it with "
+"your license key. After successful registration, you will be able to access "
+"%1$sTheme Options%2$s, %1$sImport the Demo Data%2$s and receive "
+"%1$sAutomatic Updates%2$s."
+msgstr ""
+"Om het volledige potentieel van dit thema te gebruiken, moet je het met je "
+"licentiecode registreren. Na succesvolle registratie hebt je toegang tot "
+"%1$sThema-opties%2$s, %1$sdemo data Importeren%2$s en ontvang je "
+"%1$sautomatiche updates%2$s."
+
+#: vendor/proteusthemes/theme-registration-and-updates/views/pt-registration-page.php:27
+msgid "License key, ie. 3e1fffff58adaaaa3d0ceea2zbaaccg4"
+msgstr "Licentiecode, bijv. 3e1fffff58adaaaa3d0ceea2zbaaccg4"
+
+#: vendor/proteusthemes/theme-registration-and-updates/views/pt-registration-page.php:32
+#: vendor/proteusthemes/theme-registration-and-updates/views/tf-registration-page.php:46
+msgid "Deactivate"
+msgstr "Deactiveer"
+
+#: vendor/proteusthemes/theme-registration-and-updates/views/pt-registration-page.php:33
+#: vendor/proteusthemes/theme-registration-and-updates/views/tf-registration-page.php:47
+msgid "Recheck the license"
+msgstr "Controleer de licentie opnieuw"
+
+#: vendor/proteusthemes/theme-registration-and-updates/views/pt-registration-page.php:43
+msgid "Go to our %1$sProteusThemes dashboard%2$s and login,"
+msgstr "Ga naar ons %1$sProteusThemes dashboard%2$s en log in,"
+
+#: vendor/proteusthemes/theme-registration-and-updates/views/pt-registration-page.php:44
+msgid ""
+"You will see a list of all purchased themes. Locate the theme you want to "
+"register (%s in your case),"
+msgstr ""
+"Je ziet een lijst met alle aangeschafte thema's. Zoek het thema dat je wilt "
+"registreren (%s in uw geval),"
+
+#: vendor/proteusthemes/theme-registration-and-updates/views/pt-registration-page.php:45
+msgid "Copy the %s license key."
+msgstr "Kopieer de %s licentiecode."
+
+#: vendor/proteusthemes/theme-registration-and-updates/views/pt-registration-page.php:51
+msgid "Don't have a license key yet? %1$sBuy our %2$s theme here%3$s!"
+msgstr "Heb je nog geen licentiecode? %1$sKoop hier ons %2$s-thema%3$s!"
+
+#: vendor/proteusthemes/theme-registration-and-updates/views/tf-registration-page.php:19
+msgid ""
+"To use the full potential of this theme, you will have to register it with "
+"your purchase code. After successful registration, you will be able to "
+"access %1$sTheme Options%2$s, %1$sImport the Demo Data%2$s and receive "
+"%1$sAutomatic Updates%2$s."
+msgstr ""
+"Om het volledige potentieel van dit thema te gebruiken, moet je het met je "
+"licentiecode registreren. Na succesvolle registratie hebt je toegang tot "
+"%1$sThema-opties%2$s, %1$sdemo data Importeren%2$s en ontvang je "
+"%1$sautomatiche updates%2$s."
+
+#: vendor/proteusthemes/theme-registration-and-updates/views/tf-registration-page.php:25
+msgid "Purchase code:"
+msgstr "Aankoopcode:"
+
+#: vendor/proteusthemes/theme-registration-and-updates/views/tf-registration-page.php:27
+msgid "Purchase code, ie. 34813r73-838c-466d-bbbc-aa3aaaaaa273"
+msgstr "Aankoopcode, bijv. 34813r73-838c-466d-bbbc-aa3aaaaaa273"
+
+#: vendor/proteusthemes/theme-registration-and-updates/views/tf-registration-page.php:28
+msgid "Email:"
+msgstr "E-mail:"
+
+#: vendor/proteusthemes/theme-registration-and-updates/views/tf-registration-page.php:35
+msgid ""
+"I want to be notified about theme updates and new theme releases by "
+"ProteusThemes! (%1$shere is an example%2$s)"
+msgstr ""
+"Ik wil op de hoogte blijven van thema-updates en nieuwe thema-releases van "
+"ProteusThemes! (%1$shier is een voorbeeld%2$s)"
+
+#: vendor/proteusthemes/theme-registration-and-updates/views/tf-registration-page.php:53
+msgid "Automatic theme updates"
+msgstr "Automatische thema-updates"
+
+#: vendor/proteusthemes/theme-registration-and-updates/views/tf-registration-page.php:55
+msgid ""
+"If you want to enable automatic theme updates, you have to generate an "
+"Envato token and verify it. More details in the instructions section below."
+msgstr ""
+"Als je automatische thema-updates wilt inschakelen, moet je een Envato-token "
+"genereren en deze verifiëren. Meer details in de instructies hieronder."
+
+#: vendor/proteusthemes/theme-registration-and-updates/views/tf-registration-page.php:58
+msgid ""
+"Please enter your Envato token and click on the \"Save\" button to enable "
+"automatic updates:"
+msgstr ""
+"Voer je Envato-token in en klik op de knop \"Opslaan\" om automatische "
+"updates in te schakelen:"
+
+#: vendor/proteusthemes/theme-registration-and-updates/views/tf-registration-page.php:59
+msgid "Envato token"
+msgstr "Envato token"
+
+#: vendor/proteusthemes/theme-registration-and-updates/views/tf-registration-page.php:63
+msgid "Save"
+msgstr "Opslaan"
+
+#: vendor/proteusthemes/theme-registration-and-updates/views/tf-registration-page.php:71
+msgid "Instructions"
+msgstr "Instructies"
+
+#: vendor/proteusthemes/theme-registration-and-updates/views/tf-registration-page.php:73
+msgid "Where can I find the purchase code?"
+msgstr "Waar kan ik de aankoopcode vinden?"
+
+#: vendor/proteusthemes/theme-registration-and-updates/views/tf-registration-page.php:75
+msgid "Go to your %1$sThemeForest download page%2$s and login,"
+msgstr "Ga naar je %1$sThemeForest downloadpagina%2$s en log in,"
+
+#: vendor/proteusthemes/theme-registration-and-updates/views/tf-registration-page.php:76
+msgid ""
+"You will see a list of all purchased items, that you made on ThemeForest. "
+"Find our %s item and click on the \"Download\" button, then click on the "
+"\"License certificates & purchase code (text)\","
+msgstr ""
+"Er verschijnt een lijst met alle gekochte items op ThemeForest. Zoek ons %s "
+"item en klik op de knop \"Download\" en klik vervolgens op \"License "
+"certificates & purchase code (text)\","
+
+#: vendor/proteusthemes/theme-registration-and-updates/views/tf-registration-page.php:77
+msgid ""
+"That will download a small text file, which you should open. In this text "
+"file, you will find the purchase code under the \"Item Purchase Code:\" "
+"title,"
+msgstr ""
+"Dat zal een klein tekstbestand downloaden dat moet worden geopend. In dit "
+"tekstbestand bevind de aankoopcode zich onder de titel \"Item Purchase Code:"
+"\","
+
+#: vendor/proteusthemes/theme-registration-and-updates/views/tf-registration-page.php:80
+msgid ""
+"If you have trouble finding this purchase code, please take a look at this "
+"detailed support article on %1$sWhere to find the ThemeForest purchase code"
+"%2$s."
+msgstr ""
+"In geval van problemen met het vinden van deze aankoopcode, bekijk dan dit "
+"gedetailleerde ondersteuningsartikel over %1$sWhere to find the ThemeForest "
+"purchase code%2$s."
+
+#: vendor/proteusthemes/theme-registration-and-updates/views/tf-registration-page.php:85
+msgid "Don't have a purchase code yet? %1$sBuy our %2$s theme here%3$s!"
+msgstr "Heb je nog geen licentiecode? %1$sKoop hier ons%2$s-thema%3$s!"
+
+#: vendor/proteusthemes/theme-registration-and-updates/views/tf-registration-page.php:89
+msgid "How do I generate the Envato token for automatic updates?"
+msgstr "Hoe genereer ik het Envato-token voor automatische updates?"
+
+#: vendor/proteusthemes/theme-registration-and-updates/views/tf-registration-page.php:91
+msgid ""
+"Go to %1$sCreate an Envato token%2$s and login with your themeforest details,"
+msgstr ""
+"Ga naar %1$sCreate an Envato token%2$s en log in met je ThemeForest gegevens,"
+
+#: vendor/proteusthemes/theme-registration-and-updates/views/tf-registration-page.php:92
+msgid "Input the \"Token name\", for example: %s - automatic updates,"
+msgstr "Voer de \"Token name\" in, bijvoorbeeld: %s - automatic updates,"
+
+#: vendor/proteusthemes/theme-registration-and-updates/views/tf-registration-page.php:93
+msgid ""
+"The checked permissions should be \"View and search Envato sites\" and "
+"\"Download your purchased items\""
+msgstr ""
+"De gecontroleerde machtigingen moeten \"View and search Envato sites\" en "
+"\"Download your purchased items\" zijn"
+
+#: vendor/proteusthemes/theme-registration-and-updates/views/tf-registration-page.php:94
+msgid "Finally click on the \"Create Token\" button"
+msgstr "Klik ten slotte op de knop \"Create Token\""
+
+#: vendor/proteusthemes/theme-registration-and-updates/views/tf-registration-page.php:95
+msgid ""
+"An Envato token will be generated for you, that you should use in the field "
+"above."
+msgstr ""
+"Er wordt een Envato-token gegenereerd, dat in bovenstaand veld moet worden "
+"gebruikt."
+
+#: vendor/proteusthemes/wp-customizer-utilities/src/Control/Gradient.php:48
+msgid "Gradient angle:"
+msgstr "Hoek kleurovergang:"
+
+#: vendor/proteusthemes/wp-customizer-utilities/src/Control/Gradient.php:58
+msgid "Use gradient:"
+msgstr "Gebruik kleurovergang:"
+
+#: vendor/proteusthemes/wp-customizer-utilities/src/Helpers.php:27
+msgid "Custom URL"
+msgstr "Aangepaste URL"
+
+#. Theme Name of the plugin/theme
+msgid "WoonderShop PT"
+msgstr "WoonderShop PT"
+
+#. Theme URI of the plugin/theme
+msgid "https://demo.proteusthemes.com/woondershop/"
+msgstr "https://demo.proteusthemes.com/woondershop/"
+
+#. Description of the plugin/theme
+msgid ""
+"WoonderShop is all-around marketing theme with perfect blend of modern "
+"design trends and proven internet marketing techniques that convert."
+msgstr ""
+"WoonderShop is een all-round marketingthema met een perfecte mix van moderne "
+"designtrends en bewezen internetmarketingtechnieken die converteren."
+
+#. Author of the plugin/theme
+msgid "ProteusThemes"
+msgstr "ProteusThemes"
+
+#. Author URI of the plugin/theme
+msgid "https://www.proteusthemes.com/"
+msgstr "https://www.proteusthemes.com/"
+
+#. Template Name of the plugin/theme
+msgid "Empty Template (no header and footer)"
+msgstr "Leeg sjabloon (geen koptekst en voettekst)"
+
+#. Template Name of the plugin/theme
+msgid "Front page with slider"
+msgstr "Voorpagina met slider"
+
+#: comments.php:79
+msgctxt "noun"
+msgid "Your comment"
+msgstr "Jouw reactie"
+
+#: functions.php:11
+msgctxt ""
+"%1$s - version ie. 5.4.0. %2$s, %3$s and %4$s  - html tags, must be included "
+"around the same words as original"
+msgid ""
+"This theme requires %2$sPHP 5.4+%3$s to run. Please contact your hosting "
+"company and ask them to update the PHP version of your site to at least PHP "
+"5.4.%4$s Your current version of PHP: %2$s%1$s%3$s"
+msgstr ""
+"Dit thema vereist %2$sPHP 5.4+%3$s om te kunnen worden uitgevoerd. Neem "
+"contact op met je hostingbedrijf en vraag hen om de PHP-versie van je site "
+"bij te werken naar minimaal PHP 5.4.%4$s Je huidige versie van PHP: %2$s%1$s"
+"%3$s"
+
+#: functions.php:189 inc/shortcodes/shortcode-urgency-countdown.php:66
+msgctxt "short version of: hours"
+msgid "h"
+msgstr "u"
+
+#: functions.php:192 inc/shortcodes/shortcode-urgency-countdown.php:68
+msgctxt "short version of: minutes"
+msgid "min"
+msgstr "min"
+
+#: functions.php:195 inc/shortcodes/shortcode-urgency-countdown.php:70
+msgctxt "short version of: seconds"
+msgid "s"
+msgstr "s"
+
+#. translators: To add an additional character subset specific to your
+#. language, translate this to 'greek', 'cyrillic', 'devanagari' or
+#. 'vietnamese'. Do not translate into your own language.
+#: inc/helpers.php:158
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#~ msgid "All WoonderShop theme specific settings."
+#~ msgstr "Alle WoonderShop-thema-specifieke instellingen."
+
+#~ msgid "Theme Layout &amp; Colors"
+#~ msgstr "Thema-opmaak &amp; kleuren"
+
+#~ msgid "Shop"
+#~ msgstr "Winkel"
+
+#~ msgid "Custom Code"
+#~ msgstr "Aangepaste code"
+
+#~ msgid "Main navigation submenu link color"
+#~ msgstr "Hoofdnavigatie submenu link-kleur"
+
+#~ msgctxt "Roboto and Poppins: on or off"
+#~ msgid "on"
+#~ msgstr "on"
+
+#~ msgid "Header background repeat"
+#~ msgstr "Koptekst achtergrond herhaling"
+
+#~ msgid "Header background position"
+#~ msgstr "Koptekst positie achtergrond"
+
+#~ msgid "Header background attachment"
+#~ msgstr "Koptekst bijlage achtergrond"
+
+#~ msgid "1"
+#~ msgstr "1"
+
+#~ msgid "2"
+#~ msgstr "2"
+
+#~ msgid "3"
+#~ msgstr "3"
+
+#~ msgid "4"
+#~ msgstr "4"
+
+#~ msgid "You can use HTML: a, span, i, em, strong, img."
+#~ msgstr "Je kunt HTML gebruiken: a, span, i, em, strong, img."

@@ -1,0 +1,59 @@
+/* WooCommerce My Account Page */
+.woocommerce-MyAccount {
+	&-navigation {
+		margin-bottom: ptr(30);
+
+		@include media-breakpoint-up(lg) {
+			float: left;
+			width: 20.3%;
+			margin-right: ptr(60);
+			margin-bottom: 0;
+		}
+
+		ul {
+			@include list-unstyled;
+			margin-bottom: 0;
+		}
+
+		&-link {
+			&:not(:last-of-type) {
+				margin-bottom: ptr(2);
+			}
+
+			a {
+				@include navigation-links;
+			}
+
+			&.is-active {
+				a {
+					background-color: $gray-300;
+				}
+			}
+		}
+	}
+
+	&-content {
+		@include media-breakpoint-up(lg) {
+			float: right;
+			width: calc(79.7% - #{ptr(60)});
+		}
+	}
+
+	&-orders {
+		font-size: ptr(14);
+	}
+}
+
+.woocommerce-account {
+	.woocommerce-form-login {
+		@include media-breakpoint-up(lg) {
+			margin: 0;
+		}
+	}
+}
+
+.woocommerce-ResetPassword {
+	.form-row {
+		width: 100%;
+	}
+}
